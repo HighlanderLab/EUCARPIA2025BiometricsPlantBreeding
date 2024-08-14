@@ -22,7 +22,9 @@ In addition to the conference we will host a **Satellite workshop on using Alpha
   * The conference 17th - 19th September
   * TODO: Any other dates?
 
-Registration
+**Registration**
   * TODO
 
-All communication about the conference should go to eucarpia.biometrics19@gmail.com
+**Communication**
+
+All communication regarding the conference should go to eucarpia.biometrics19@gmail.com
