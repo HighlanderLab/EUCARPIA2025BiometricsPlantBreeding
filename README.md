@@ -25,6 +25,14 @@ In addition to the conference we will host a **Satellite workshop on using Alpha
 **Registration**
   * TODO
 
+**Agenda**
+  * Monday - Tuesday: Satellite workshop
+  * Wednesday: EUCARPIA conference
+  * Thursday:
+    * Morning: EUCARPIA conference
+    * Afternoon: Social programme, including tours
+  * Friday: EUCARPIA conference
+
 **Communication**
 
 All communication regarding the conference should go to eucarpia.biometrics19@gmail.com
