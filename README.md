@@ -26,12 +26,12 @@ In addition to the conference we will host a **Satellite workshop on using Alpha
   * TODO
 
 **Agenda**
-  * Monday - Tuesday: Satellite workshop
-  * Wednesday: EUCARPIA conference
-  * Thursday:
+  * Monday - Tuesday (15/16th Sep): Satellite workshop
+  * Wednesday (17th Sep): EUCARPIA conference
+  * Thursday (18th Sep):
     * Morning: EUCARPIA conference
     * Afternoon: Social programme, including tours
-  * Friday: EUCARPIA conference
+  * Friday (19th Sep): EUCARPIA conference
 
 **Communication**
 
