@@ -22,6 +22,18 @@ In addition to the conference we will host a **Satellite workshop on using Alpha
   * The conference 17th - 19th September
   * TODO: Any other dates?
 
+**Invited speakers**
+* Gary Atlin, Bill & Melinda Gates Foundation
+* Rosemary Bailey, University of Saint Andrews
+* Hao Cheng, University of California, Davis
+* Sarah Hearne, CIMMYT
+* Steven Penfield, John Innes Centre
+* Pascal Schopp, KWS Group
+* Julian Taylor, University of Adelaide
+* Andrea Wilson, University of Edinburgh
+* María Xosé Rodríguez-Álvarez, University of Vigo
+
+
 **Registration**
   * TODO
 
