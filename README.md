@@ -13,6 +13,7 @@ In addition to the conference we will host a **Satellite workshop on using Alpha
   * The Easter Bush Campus of The University of Edinburgh (which hosts The Roslin Institute, The Royal Dick School of Veterinary Medicine, The Global Academy of Agriculture and Food Security, and a range of startups and established businesses) 
   * https://www.ed.ac.uk/roslin/about/our-campus
   * https://maps.app.goo.gl/L636reGtE8aLS9XZ7
+  * The workshop will be at The Roslin Institute in seminar room B-006
 
 **Dates**:
   * Registration TODO
