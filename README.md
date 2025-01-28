@@ -1,6 +1,6 @@
 # EUCARPIA 2025 Biometrics in Plant Breeding Conference & Satellite Workshop
 
-This is a repository hosting public information for the **EUCARPIA 2025 Biometrics conference** that will take place in Edinburgh 17-19th September 2025.
+This is a repository hosting public information for the **EUCARPIA 2025 Biometrics conference** that will take place in Edinburgh 17-19th September 2025. The conference website incorporating this information is in development.
 
 **Venue for the conference**:
   * The Royal College of Physicians of Edinburgh (RCPE)
@@ -23,20 +23,19 @@ In addition to the conference we will host a **Satellite workshop on using Alpha
   * The EUCARPIA conference 17th - 19th September
   * TODO: Any other dates?
 
+**Registration**
+  * TODO
+
 **Invited speakers**
 * [Gary Atlin, Bill & Melinda Gates Foundation](https://www.linkedin.com/in/gary-atlin-14014014/)
 * [Rosemary Bailey, University of Saint Andrews](https://www.st-andrews.ac.uk/mathematics-statistics/people/rab24/)
 * [Hao Cheng, University of California, Davis](https://www.linkedin.com/in/haochengdata/)
 * [Sarah Hearne, CIMMYT](https://www.linkedin.com/in/sarah-hearne-769b1283/)
 * [Steven Penfield, John Innes Centre](https://www.jic.ac.uk/people/steven-penfield/)
+* [María Xosé Rodríguez-Álvarez, University of Vigo](https://sidor.uvigo.es/en/staff/permanent-research-staff/maria-jose-rodriguez-alvarez/)
 * [Pascal Schopp, KWS Group](https://www.linkedin.com/in/pascal-schopp-64869619b/)
 * [Julian Taylor, University of Adelaide](https://www.linkedin.com/in/julian-taylor-98888283/)
 * [Andrea Wilson, University of Edinburgh](https://www.linkedin.com/in/andrea-doeschl-wilson-8254a261/)
-* [María Xosé Rodríguez-Álvarez, University of Vigo](https://sidor.uvigo.es/en/staff/permanent-research-staff/maria-jose-rodriguez-alvarez/)
-
-
-**Registration**
-  * TODO
 
 **Agenda**
   * Monday - Tuesday (15/16th Sep): Satellite workshop
