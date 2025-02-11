@@ -54,25 +54,25 @@ apple_touch_icon: /assets/img/logo1.jpg
 menu:
 
   - title:             Registration
-    url:               /pages/registration/
+    url:               /registration/
   - title:             Program
-    url:               /pages/program/
+    url:               /program/
   - title:             Invited speakers
-    url:               /pages/Invited_speakers/
+    url:               /Invited_speakers/
   - title:             Information for attendees
-    url:               /pages/Information_for_attendees/
+    url:               /Information_for_attendees/
   - title:             Satellite workshop
-    url:               /pages/satellite_workshop/
+    url:               /satellite_workshop/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
-legal:
-  - title:             LICENSE
-    url:               /LICENSE/
-  - title:             NOTICE
-    url:               /NOTICE/
-  - title:             CHANGELOG
-    url:               /CHANGELOG/
+# legal:
+#   - title:             LICENSE
+#     url:               /LICENSE/
+#   - title:             NOTICE
+#     url:               /NOTICE/
+#   - title:             CHANGELOG
+#     url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             © 2025. Page made by EUCARPIA2025 Biometrics Plant Breeding committee.
