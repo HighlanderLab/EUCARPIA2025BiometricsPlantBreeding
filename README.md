@@ -63,3 +63,6 @@ In addition to the conference we will host a **Satellite workshop on using Alpha
 All communication regarding the conference should go to eucarpia.biometrics19@gmail.com
 
 **The last EUCARPIA Biometrics in Plant Breeding Conference (2022)**: https://eucarpiabiom22.sciencesconf.org
+
+**Web site updates**
+The web site is generated from the branch called 'website'. To update, push to the 'devel' branch, then render locally and preview your changes. If happy, open pull a request from 'devel' to 'website'.
