@@ -12,7 +12,7 @@
 
 <div style="float: right; width: 450px; padding: 10px; background: #ddeeff; border-left: 5px solid #2c4fa0; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); margin-left: 15px;">
   <strong>Fees in GBP:</strong>
-  <table>
+  <table style="margin-left:10px;">
   <tr>
     <th> </th>
     <th><strong>Early</strong></th>
@@ -38,11 +38,11 @@
 </div>
 
 ## Registration
-We'll add a link once registration is open.
+We'll add a link **here** once registration is open.
 
 
 ## Abstract submission
-We'll add a link once registration is open.
+We'll add a link **here** once registration is open.
 
 The Organising Committee encourages all the Conference attendees to submit abstracts before June 15, 2025. The submitted abstracts will be revised by the scientific committee.
 
