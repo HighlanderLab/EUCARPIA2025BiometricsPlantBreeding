@@ -20,7 +20,7 @@
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 EUCARPIA 2025 Biometrics in Plant Breeding Conference
+title:                 /assets/img/logo2.png
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -29,7 +29,7 @@ description:           >
   with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline:               17-19th Sep 2025 in Edinburgh
+tagline:               #17-19th Sep 2025 in Edinburgh
 
 # A list of keywords for your blog
 keywords:              []
@@ -37,7 +37,7 @@ keywords:              []
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/logo1.jpg
+logo:                  # /assets/img/logo1.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -105,13 +105,13 @@ remote_theme: hydecorp/hydejack@v9.2.1
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/sidebar-bg2.jpg
+accent_image:          /assets/img/wheat.jpg
 accent_color:          rgb(51,137,119)
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
 # Defaults to `accent_color`.
-theme_color:           rgb(186,91,163)
+theme_color:            rgb(51,137,119)
 
 # IMPORTANT:
 # As of Hydejack 9.2, Google Fonts are turned off by default due to a stronger focus on privacy.
@@ -141,7 +141,7 @@ defaults:
   - scope:
       path:            hyde/
     values:
-      accent_color:    rgb(38,139,210)
+      accent_color:     rgb(51,137,119)
       theme_color:     rgb(32,32,32)
       accent_image:
         background:    rgb(32,32,32)
