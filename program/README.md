@@ -1,8 +1,8 @@
 # Scientific Program
 
 **Outline**
-  * Monday - Tuesday (15/16th Sep): Satellite workshop
-  * Wednesday (17th Sep): EUCARPIA conference
+  * Monday - Tuesday (15/16th Sep): Satellite workshop at The Roslin Institute
+  * Wednesday (17th Sep): EUCARPIA conference at the Royal College
     * Morning:
       * Session 1: Impact of biometrical and breeding methods in public and private programs (provisional; chair TBD)
       * Session 2: Design of individual and multi-environment trials (provisional; chair TBD)
