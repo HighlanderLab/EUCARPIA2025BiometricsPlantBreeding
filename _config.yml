@@ -25,8 +25,9 @@ title:                 /assets/img/logo2.png
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  This is the web site of the 2025 EUCARPIA Biometrics Plant Breeding conference.
+  The conference will take place in September 2025 in Edinburgh, UK. It is organised by the 
+  Highlander Lab at the University of Edinburgh's Roslin Institute.
 
 # A shorter description for the sidebar.
 tagline:               #17-19th Sep 2025 in Edinburgh
@@ -37,7 +38,7 @@ keywords:              []
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  # /assets/img/logo1.jpg
+logo:                  /assets/img/logo2.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
