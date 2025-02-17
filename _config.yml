@@ -9,7 +9,7 @@
 # When your site is in a subdirectory, set to `/<name of directory>`,
 # with a leading `/` but no trailing `/`. Use the empty string '' otherwise.
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-# baseurl:               ""
+baseurl:               "/EUCARPIA2025BiometricsPlantBreeding"
 
 
 # General settings
