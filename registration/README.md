@@ -44,13 +44,11 @@ We'll add a link **here** once registration is open.
 ## Abstract submission
 We'll add a link **here** once registration is open.
 
-The Organising Committee encourages all the Conference attendees to submit abstracts before June 15, 2025. The submitted abstracts will be revised by the scientific committee.
-
 ### Instructions for oral presentations
-We foresee a timeslot of 15 minutes for your talk, including 13 minutes of presentation and 2 minutes of discussion. Please be aware that the chairpersons have been requested that speakers adhere strictly to the time schedule.
+We’ll add instructions here once abstract submission is open.
 
 ### Instructions for posters
-Posters will be displayed during the three days of the conference. Panels for poster display and materials for hanging the posters will be available at the conference venue. The poster panels will be suitable for A0-sized posters in portrait orientation (85 cm wide, 120 cm tall). 
+We’ll add instructions here once abstract submission is open.
 
 ## Contact
-For inquiries, please email: eucarpia [dot] biometrics19 [at] gmail [dot] com - thank you!
+For inquiries, please email: eucarpia.biometrics19@gmail.com - thank you!
