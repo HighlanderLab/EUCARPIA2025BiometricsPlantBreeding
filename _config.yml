@@ -96,7 +96,7 @@ paginate_path:         /:num/
 # As of September 2024, the recommended way of deploying to GitHub Pages is through a custom [GitHub Action][gha], which gives you full control over the build process. 
 # No extra steps are required when using a GH Action and you can jump to [running locally](#running-locally), or learn more in chapter [Deploy](./deploy.md){:.heading.flip-title}.
 # That being said, Hydejack maintains backwards compatibility with the legacy pipeline and you can continue to use it.
-remote_theme: hydecorp/hydejack@v9.2.1
+remote_theme: AprilYUZhang/hydejack_V2
 
 # You can uncomment `theme` above and replace it with `remote_theme` here iff you are using the 
 # `jekyll-remote-theme` plugin (which is the case when using the legacy GitHub Pages pipeline).
