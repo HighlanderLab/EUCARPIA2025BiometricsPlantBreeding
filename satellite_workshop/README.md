@@ -11,5 +11,8 @@ The Easter Bush Campus of The University of Edinburgh (which hosts The Roslin In
 * The workshop will be at The **Roslin Institute** in **seminar room B-006**
 
 
-
+## Instructors
+* [Chris Gaynor](https://www.linkedin.com/in/chris-gaynor-136550249/)
+* [Daniel Tolhurst](https://www.linkedin.com/in/daniel-tolhurst-8abb5685/)
+* [Gregor Gorjanc](https://www.linkedin.com/in/gregorgorjanc/)
     
