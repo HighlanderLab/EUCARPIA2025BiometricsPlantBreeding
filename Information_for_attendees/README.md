@@ -5,7 +5,7 @@ Edinburgh is a city of stunning architecture and rich culture, with a vibrant ac
 This is where we'll add information on places to stay.
 
 ## Conference venue
-The conference venue is Edinburgh's Royal College of Physicians.
+The conference venue is [The Royal College of Physicians](https://www.rcpe.ac.uk) Edinburgh, ([Google maps](https://maps.app.goo.gl/73jkUjuGj2oSzkX17)).
 
 ## Conference dinner
 The conference dinner is going to be held at XXXYYY.
