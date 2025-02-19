@@ -7,6 +7,8 @@ We are going to hold a workshop on using the **[AlphaSimR](https://cran.r-projec
 🏫 Place: The Roslin Institute, seminar room B-006
 
 
+
+
 ## Instructors
 * [Chris Gaynor](https://www.linkedin.com/in/chris-gaynor-136550249/)
 * [Daniel Tolhurst](https://www.linkedin.com/in/daniel-tolhurst-8abb5685/)
