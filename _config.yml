@@ -11,7 +11,6 @@
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
 baseurl:               "/EUCARPIA2025BiometricsPlantBreeding"
 
-
 # General settings
 # ---------------------------------------------------------------------------------------
 #
@@ -21,7 +20,9 @@ baseurl:               "/EUCARPIA2025BiometricsPlantBreeding"
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 EUCARPIA Biometrics Plant Breeding
+
+title:                 EUCARPIA 2025 Biometrics Plant Breeding
+titlelogo:          /assets/img/logo2.png
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -31,7 +32,9 @@ description:           >
   Highlander Lab at the University of Edinburgh's Roslin Institute.
 
 # A shorter description for the sidebar.
-tagline:               2025 conference, Edinburgh, 17-19 Sep
+
+tagline:               This is the web site of the 2025 EUCARPIA Biometrics Plant Breeding conference. The conference will take place in September 2025 in Edinburgh, UK.
+
 
 # A list of keywords for your blog
 keywords:              []
@@ -96,7 +99,7 @@ paginate_path:         /:num/
 # As of September 2024, the recommended way of deploying to GitHub Pages is through a custom [GitHub Action][gha], which gives you full control over the build process. 
 # No extra steps are required when using a GH Action and you can jump to [running locally](#running-locally), or learn more in chapter [Deploy](./deploy.md){:.heading.flip-title}.
 # That being said, Hydejack maintains backwards compatibility with the legacy pipeline and you can continue to use it.
-remote_theme: hydecorp/hydejack@v9.2.1
+remote_theme: AprilYUZhang/hydejack_V2
 
 # You can uncomment `theme` above and replace it with `remote_theme` here iff you are using the 
 # `jekyll-remote-theme` plugin (which is the case when using the legacy GitHub Pages pipeline).
@@ -224,7 +227,7 @@ hydejack:
 
   # Set to `true` if you do not want parts of the css inlined in <head/>
   # This will increase site build speed dramatically!
-  no_inline_css:       false
+  no_inline_css:       true
 
   # Set to `true` if you don't intend on changing the accent color on a per-page basis. 
   # This will increase site build speed!
