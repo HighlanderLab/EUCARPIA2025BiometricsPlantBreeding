@@ -29,7 +29,11 @@ María Xosé Rodríguez Álvarez earned her PhD in Mathematics from the Universi
 ## Pascal Schopp, KWS Group
 <img src="../assets/img/profilePascal.jpg" alt="Profile Picture" width="200" height="200" align="left" style="margin-right: 20px;">  
 
-Pascal Schopp is the head of Corn Breeding Europe Mid-Late at KWS. He received his MSc in Plant Breeding from the University of Hohenheim, Germany, where he continued to study for a PhD.
+Pascal Schopp is the head of Corn Breeding Europe Mid-Late at KWS.
+
+He received his MSc in Plant Breeding from the University of Hohenheim, Germany, where he continued to study for a PhD.
+
+<br><br><br><br><br>
 ## Julian Taylor, University of Adelaide
 ## Andrea Wilson, University of Edinburgh
 <img src="../assets/img/profileAndrea.jpg" alt="Profile Picture" width="200" height="200" align="left" style="margin-right: 20px;">  
