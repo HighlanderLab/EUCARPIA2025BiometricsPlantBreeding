@@ -12,7 +12,7 @@ Gary Atlin received BS and MS degrees in crop science at the University of Guelp
 ## Sarah Hearne, CIMMYT
 ## Steven Penfield, John Innes Centre
 
-<img src="../assets/img/profileSteven.jpg" alt="Profile Picture" width="200" height="200" align="left" style="margin-right: 20px;">  
+<img src="../assets/img/profileSteven.jpg" alt="Profile Picture" width="200" align="left" style="margin-right: 20px;">  
 
 Steven's research group works to understand how weather and climate affect plant reproductive development and seed quality. They are particularly interested in the effects of temperature on crop yields, seed quality and seedling establishment.  
 
