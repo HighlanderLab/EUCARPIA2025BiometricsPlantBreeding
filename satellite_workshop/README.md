@@ -22,7 +22,7 @@ The Easter Bush campus is directly served by several local bus routes. To plan y
 
 
 <div style="float: left; width: 500px; padding: 10px; background: #ddeeff; border-left: 5px solid #2c4fa0;">
-  <table style="margin-left:5px; width: 480px;">
+  <table style="margin-left:5px; width: 450px;">
   <tr>
     <th><strong>Travelling from</strong></th>
     <th><strong>Bus service</strong></th>
