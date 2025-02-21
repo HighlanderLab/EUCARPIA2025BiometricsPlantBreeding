@@ -1,4 +1,4 @@
-# Scientific Program
+# Scientific program
 
 **Satellite workshop at The Roslin Institute**
   * Monday - Tuesday (15/16th Sep)
