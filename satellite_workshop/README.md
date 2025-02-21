@@ -23,7 +23,7 @@ The Easter Bush campus is directly served by several local bus routes. To plan y
 
 <div style="float: left; padding: 10px; background: #ddeeff; border-left: 5px solid #2c4fa0;">
   <table>
-  <tr></tr>
+  <tr>
     <th><strong>Travelling from</strong></th>
     <th><strong>Bus service</strong></th>
   </tr>
@@ -43,7 +43,6 @@ The Easter Bush campus is directly served by several local bus routes. To plan y
     <td>Musselburgh and Dalkeith</td>
     <td>141</td>
   </tr>
-  
   <tr>
     <td>Penicuik</td>
     <td>141, 47B</td>
