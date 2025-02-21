@@ -21,7 +21,7 @@ The [Easter Bush Campus](https://www.ed.ac.uk/roslin/about/our-campus) of The Un
 The Easter Bush campus is directly served by several local bus routes. To plan your journey, try using the  [Traveline Scotland journey planner](https://www.travelinescotland.com/lts/#/travelInfo), Google Maps, or the [Citymapper](https://citymapper.com/) app.
 
 
-<div style="float: left; width: 450px; padding: 10px; background: #ddeeff; border-left: 5px solid #2c4fa0; margin-left: 15px;">
+<div style="float: left; width: 450px; padding: 10px; background: #ddeeff; border-left: 5px solid #2c4fa0; margin-left: 5px;">
   <table style="margin-left:10px;">
   <tr>
     <th><strong>Travelling from</strong></th>
