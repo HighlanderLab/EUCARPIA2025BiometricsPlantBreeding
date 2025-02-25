@@ -6,9 +6,6 @@ We are going to hold a workshop on using the **[AlphaSimR](https://cran.r-projec
 
 🏫 Place: The Roslin Institute, seminar room B-006
 
-
-
-
 ## Instructors
 * [Chris Gaynor](https://www.linkedin.com/in/chris-gaynor-136550249/)
 * [Daniel Tolhurst](https://www.linkedin.com/in/daniel-tolhurst-8abb5685/)
@@ -19,14 +16,17 @@ The [Easter Bush Campus](https://www.ed.ac.uk/roslin/about/our-campus) of The Un
 
 ### Getting there
 The Easter Bush campus is directly served by several local bus routes. To plan your journey, try using the  [Traveline Scotland journey planner](https://www.travelinescotland.com/lts/#/travelInfo), Google Maps, or the [Citymapper](https://citymapper.com/) app.
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<div style="float: left; width: 450px; padding: 10px; background: #ddeeff; border-left: 5px solid #2c4fa0; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); margin-left: 15px;">
-  <table>
-  <tr></tr>
+<br>
+
+  <table style="width: 75%; margin: auto;border-collapse: collapse; text-align: center;">
+  <thead>
+  <tr>
     <th><strong>Travelling from</strong></th>
     <th><strong>Bus service</strong></th>
-  </tr>
+  </tr>  
+  </thead>
+  <tbody>
   <tr>
     <td>Bruntsfield and Morningside</td>
     <td>15</td>
@@ -48,8 +48,7 @@ The Easter Bush campus is directly served by several local bus routes. To plan y
     <td>Penicuik</td>
     <td>141, 47B</td>
   </tr>
-  
+  </tbody>
 </table>
-</div>
 
 
