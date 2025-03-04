@@ -8,7 +8,17 @@ Gary Atlin received BS and MS degrees in crop science at the University of Guelp
 
 
 ## Rosemary Bailey, University of St Andrews
+
+<img src="../assets/img/profileRosemary.jpg" alt="Profile Picture" width="200" align="left" style="margin-right: 20px;">  
+
+R. A. Bailey is Professor of Statistics at the University of St Andrews, and a Fellow of the Royal Society of Edinburgh.   She worked for the Medical Research Council's Air Pollution Research Unit before studying at the University of Oxford, where she obtained a BA in Mathematics and a DPhil in Group Theory. As a post-doctoral fellow at the University of Edinburgh she learnt how to apply group theory to problems in design of experiments. She spent ten years applying this knowledge in the Statistics Department at Rothamsted Experimental Station, before moving to academia, being Head of Department or School at Goldsmiths College and at Queen Mary College, both in the University of London. She was President of the then-British Region of the International Biometric Society from 2000 to 2002, and has also served on various committees of the London Mathematical Society, the Royal Statistical Society and the Institute of Mathematical Statistics.
+
 ## Hao Cheng, UC Davis
+
+<img src="../assets/img/profileHao.jpg" alt="Profile Picture" width="200" align="left" style="margin-right: 20px;">  
+
+Professor Cheng’s research is broadly involved in the development of statistical, machine learning, and computational methods that bridge the genome and phenome for the genetic improvement of populations through more accurate, efficient, and biologically meaningful analyses. Professor Cheng has focused on the use of genomics, phenomics, and other sources of omics data in various species to better predict desired traits and infer the mechanisms underlying them. This includes the theoretical aspects of quantitative genetics, such as statistical models and computational algorithms (e.g., genomic prediction and association studies), the development of software tools to apply these statistical methods and computational algorithms to real-life, large-scale omic data, and the application of these methods and tools to large datasets for a wide range of traits in various species.
+
 ## Sarah Hearne, CIMMYT
 ## Steven Penfield, John Innes Centre
 
