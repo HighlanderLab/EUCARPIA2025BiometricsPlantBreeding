@@ -44,7 +44,6 @@
 ## Registration
 We'll add a link **here** once registration is open.
 
-
 ## Abstract submission
 We'll add a link **here** once registration is open.
 
