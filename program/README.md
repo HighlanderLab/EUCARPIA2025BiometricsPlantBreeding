@@ -95,14 +95,14 @@
 
 <table>
         <tr>
-            <th>Time</th>
-            <th>Wednesday</th>
-            <th>Thursday</th>
-            <th>Friday</th>
+            <th style="width: 150px;">Time</th>
+            <th style="width: 250px;">Wednesday</th>
+            <th style="width: 250px;">Thursday</th>
+            <th style="width: 250px;">Friday</th>
         </tr>
-        <tr><td>08:00</td><td colspan="3">Registration</td></tr>
+        <tr><td>08:00-09:00</td><td colspan="3">Registration</td></tr>
         <tr>
-            <td>09:00</td>
+            <td>09:00-09:40</td>
             <td class="session" rowspan="3">
                 <div class="embed_container">
                     <div class="embed_title">Session 1</div>
@@ -129,14 +129,14 @@
             </td>
         </tr>
         <tr>
-        <td>09:30</td>
+        <td>09:40-10:10</td>
         </tr>
         <tr>
-        <td>10:00</td>
+        <td>10:10-10:40</td>
         </tr>
-        <tr><td>10:30</td><td class="break" colspan="3">Morning Tea (30 minutes)</td></tr>
+        <tr><td>10:40-11:10</td><td class="break" colspan="3">Morning Tea (30 minutes)</td></tr>
          <tr>
-            <td>11:00</td>
+            <td>11:10-11:50</td>
             <td class="session" rowspan="3">
                 <div class="embed_container">
                     <div class="embed_title">Session 2</div>
@@ -163,19 +163,19 @@
             </td>
         </tr>
         <tr>
-        <td>11:30</td>
+        <td>11:50-12:20</td>
         </tr>
         <tr>
-        <td>12:00</td>
+        <td>12:20-12:50</td>
         </tr>
-        <tr><td>12:30</td><td class="break"  rowspan="2">Lunch (1 hour)</td><td class="break">Pick up lunch before social events</td><td class="break"  rowspan="2">Lunch  (1 hour)</td></tr>
-        <tr><td>13:00</td><td class="break"  rowspan="9">
+        <tr><td>12:50-13:20</td><td class="break"  rowspan="2">Lunch (1 hour)</td><td class="break">Pick up lunch before social events</td><td class="break"  rowspan="2">Lunch  (1 hour)</td></tr>
+        <tr><td>13:20-13:50</td><td class="break"  rowspan="9">
         <div>
         Social Program
         </div>
         </td></tr>
         <tr>
-            <td>13:30</td>
+            <td>13:50-14:30</td>
             <td class="session" rowspan="3">
                 <div class="embed_container">
                     <div class="embed_title">Session 3</div>
@@ -194,14 +194,14 @@
             </td>
         </tr>
         <tr>
-        <td>14:00</td>
+        <td>14:30-15:00</td>
         </tr>
         <tr>
-        <td>14:30</td>
+        <td>15:00-15:30</td>
         </tr>
-        <tr><td>15:00</td><td class="break">Afternoon Tea (30 mins)</td><td class="break" rowspan="5">Conference Ends</td></tr>
+        <tr><td>15:30-16:00</td><td class="break">Afternoon Tea (30 mins)</td><td class="break" rowspan="5">Conference Ends</td></tr>
         <tr>
-            <td>15:30</td>
+            <td>16:00-16:40</td>
             <td class="session" rowspan="3">
                 <div class="embed_container">
                     <div class="embed_title">Session 4</div>
@@ -212,12 +212,12 @@
             </td>
         </tr>
         <tr>
-        <td>16:00</td>
+        <td>16:40-17:10</td>
         </tr>
         <tr>
-        <td>16:30</td>
+        <td>17:10-17:40</td>
         </tr>
-        <tr><td>17:00</td>
+        <tr><td>17:40-</td>
         <td class="break">
         <div class="poster_container">
           <div class="poster_item">Poster Session</div>
