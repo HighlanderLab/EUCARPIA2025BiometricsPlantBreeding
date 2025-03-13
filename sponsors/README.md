@@ -1,9 +1,12 @@
 # Sponsors
 We are grateful to our sponsors.
 
-## Platinum
-BASF
+# Platinum
 <div style="text-align: center;">
+<br>
+<a href="https://www.basf.com/gb/en">
+    <img src="../assets/img/sponser_BASF_logo.png" alt="BASF" style="height:120px;">
+</a>
 <a href="https://www.eucarpia.eu/">
     <img src="../assets/img/sponser_eucarpia_logo.png" alt="EUCARPIA" style="height:150px;">
 </a>
@@ -12,10 +15,14 @@ BASF
 </a>
 </div>
 
-## Gold
+# Gold
 
-AbacusBio
 <div style="text-align: center;">
+<a href="https://abacusbio.com/">
+    <img src="../assets/img/sponser_abacusbio_logo.png" alt="Abacusbio" style="height:60px;">
+</a>
+<br>
+<br>
 <a href="https://www.bayer.com/en/">
     <img src="../assets/img/sponser_bayer_logo.png" alt="Bayer" style="height:150px;">
 </a>
@@ -32,7 +39,7 @@ GDM
 </a>
 </div>
 
-## Silver
+# Silver
 
 <div style="text-align: center;">
 <a href="https://www.driscolls.eu/">
