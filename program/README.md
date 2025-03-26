@@ -35,23 +35,26 @@
             align-items: center;
             background:rgba(203, 173, 216, 0.7);
             padding: 10px;
-            margin-top: 15px;
+            margin-top: 5px;
             border-radius: 8px;
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
             position: relative;
         }
         .embed_title {
-            margin-bottom: 5px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-bottom: 0px;
             background:rgb(143, 94, 163);
             color: white;
-            padding: 2px 15px;
-            border-radius: 10px;
-            position: absolute;
-            top: -20px;
-            left: 50%;
-            transform: translateX(-50%);
-            white-space: nowrap;
+            padding: 8px 5px;
+            border-radius: 8px;
+            white-space: normal;
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+            font-size: 14px;
+            text-align: center; 
+            line-height: 1.4; 
+            font-weight: bold;
         }
         .embed_item {
             margin: 5px 0;
@@ -96,18 +99,20 @@
 <table>
         <tr>
             <th style="width: 150px;">Time</th>
-            <th style="width: 250px;">Wednesday</th>
-            <th style="width: 250px;">Thursday</th>
-            <th style="width: 250px;">Friday</th>
+            <th style="width: 300px;">Wednesday</th>
+            <th style="width: 300px;">Thursday</th>
+            <th style="width: 300px;">Friday</th>
         </tr>
         <tr><td>08:00-08:30</td><td>Registration</td><td rowspan="2" colspan="2"></td></tr>
         <tr><td>08:30-08:50</td><td rowspan="2">Welcome</td></tr>
         <tr><td>08:50-09:00</td><td colspan="2">Welcome</td></tr>
         <tr>
-            <td>09:00-09:40</td>
+            <td style="height: 110px;">09:00-09:40</td>
             <td class="session" rowspan="3">
                 <div class="embed_container">
-                    <div class="embed_title">Session 1</div>
+                    <div class="embed_title">
+                    Impact of biometrical and breeding methods
+                    </div>
                     <div class="embed_item">Plenary 1</div>
                     <div class="embed_item">Talk 1, Talk 2</div>
                     <div class="embed_item">Talk 3, Talk 4</div>
@@ -115,7 +120,9 @@
             </td>
             <td class="session" rowspan="3">
                 <div class="embed_container">
-                    <div class="embed_title">Session 5</div>
+                    <div class="embed_title">
+                    Modelling and leveraging GxE in the face of climate change
+                    </div>
                     <div class="embed_item">Plenary 5</div>
                     <div class="embed_item">Talk 17, Talk 18</div>
                     <div class="embed_item">Talk 19, Talk 20</div>
@@ -123,7 +130,9 @@
             </td>
             <td class="session" rowspan="3">
                 <div class="embed_container">
-                  <div class="embed_title">Session 7</div>
+                  <div class="embed_title">
+                  High-throughput modelling
+                  </div>
                     <div class="embed_item">Plenary 7</div>
                     <div class="embed_item">Talk 25, Talk 26</div>
                     <div class="embed_item">Talk 27, Talk 28</div>
@@ -138,10 +147,12 @@
         </tr>
         <tr><td>10:40-11:10</td><td class="break" colspan="3">Morning Tea (30 minutes)</td></tr>
          <tr>
-            <td>11:10-11:50</td>
+            <td style="height: 110px;">11:10-11:50</td>
             <td class="session" rowspan="3">
                 <div class="embed_container">
-                    <div class="embed_title">Session 2</div>
+                    <div class="embed_title">
+                    Design of individual and multi-environment trials
+                    </div>
                     <div class="embed_item">Plenary 2</div>
                     <div class="embed_item">Talk 5, Talk 6</div>
                     <div class="embed_item">Talk 7, Talk 8</div>
@@ -149,7 +160,9 @@
             </td>
             <td class="session" rowspan="3">
                 <div class="embed_container">
-                    <div class="embed_title">Session 6</div>
+                    <div class="embed_title">
+                    Modelling and leveraging GxE
+                    </div>
                     <div class="embed_item">Plenary 6</div>
                     <div class="embed_item">Talk 21, Talk 22</div>
                     <div class="embed_item">Talk 23, Talk 24</div>
@@ -157,7 +170,9 @@
             </td>
             <td class="session" rowspan="3">
                 <div class="embed_container">
-                  <div class="embed_title">Session 8</div>
+                  <div class="embed_title">
+                  AI/Machine learning techniques in practice
+                  </div>
                     <div class="embed_item">Plenary 8</div>
                     <div class="embed_item">Talk 29, Talk 30</div>
                     <div class="embed_item">Talk 31, Talk 32</div>
@@ -177,10 +192,12 @@
         </div>
         </td></tr>
         <tr>
-            <td>13:50-14:30</td>
+            <td style="height: 110px;">13:50-14:30</td>
             <td class="session" rowspan="3">
                 <div class="embed_container">
-                    <div class="embed_title">Session 3</div>
+                    <div class="embed_title">
+                    Genetic and genomic modelling of plant breeding data
+                    </div>
                     <div class="embed_item">Plenary 3</div>
                     <div class="embed_item">Talk 9, Talk 10</div>
                     <div class="embed_item">Talk 11, Talk 12</div>
@@ -188,7 +205,9 @@
             </td>
             <td class="session" rowspan="3">
                 <div class="embed_container" rowspan="3">
-                  <div class="embed_title">Session 9</div>
+                  <div class="embed_title">
+                  Genetic diversity and long-term genetic gains
+                  </div>
                     <div class="embed_item">Plenary 9</div>
                     <div class="embed_item">Talk 33, Talk 34</div>
                     <div class="embed_item">Talk 35, Talk 36</div>
@@ -203,10 +222,12 @@
         </tr>
         <tr><td>15:30-16:00</td><td class="break">Afternoon Tea (30 mins)</td><td class="break" rowspan="5">Conference Ends</td></tr>
         <tr>
-            <td>16:00-16:40</td>
+            <td style="height: 110px;">16:00-16:40</td>
             <td class="session" rowspan="3">
                 <div class="embed_container">
-                    <div class="embed_title">Session 4</div>
+                    <div class="embed_title">
+                    Beyond genetic and genomic modelling
+                    </div>
                     <div class="embed_item">Plenary 4</div>
                     <div class="embed_item">Talk 13, Talk 14</div>
                     <div class="embed_item">Talk 15, Talk 16</div>
