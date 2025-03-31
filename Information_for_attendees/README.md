@@ -1,6 +1,6 @@
 # Information for attendees 
 
-<img src="../assets/img/Information1.png" alt="Profile Picture" width="250" align="right" style="margin-left: 20px;"> 
+<img src="../assets/img/Information2.png" alt="Profile Picture" width="250" align="right" style="margin-left: 20px;"> 
 Edinburgh is a city of stunning architecture and rich culture, with a vibrant academic scene. 
 
 **Home to both medieval streets and modern innovation**, Edinburgh a great place to explore. From the **Royal Mile** to **Arthur’s Seat**, the **Pentlands** and beyond, the city and its surrounds offer plenty to see and experience! Discover more at [Visit Scotland](https://www.visitscotland.com/)
@@ -8,7 +8,7 @@ Edinburgh is a city of stunning architecture and rich culture, with a vibrant ac
 
 ## Getting to Edinburgh
 
-<img src="../assets/img/Information2.png" alt="Profile Picture" width="250" align="left" style="margin-right: 20px;"> 
+<img src="../assets/img/Information5.jpg" alt="Profile Picture" width="250" align="left" style="margin-right: 20px;"> 
 **By aeroplane:**
 Edinburgh Airport is served by international and domestic connections. It prides itself to be the Scottish airport from where you can reach most destinations. From the airport, you can take the bus lines 100 (to central Edinburgh) and 400 (southern districts). There is also a tram to central Edinburgh. Taxis can be booked, at short notice, at the taxi stand outside the terminal building.  
 
@@ -17,8 +17,10 @@ Edinburgh Airport is served by international and domestic connections. It prides
 
 ## Accommodation
 
-<img src="../assets/img/Information3.png" alt="Profile Picture" width="250" align="right" style="margin-left: 20px;"> 
+<img src="../assets/img/Information4.jpg" alt="Profile Picture" width="160" align="right" style="margin-left: 20px;"> 
 This is where we'll add information on places to stay.
+<br>
+<br>
 <br>
 <br>
 <br>

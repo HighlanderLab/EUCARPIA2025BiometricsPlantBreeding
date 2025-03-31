@@ -1,5 +1,5 @@
 # Scientific program
-
+There will be nine session as shown below. We envisage that each session will have one plenary and four contributed talks.
 <style>
       table {
             width: 100%;
@@ -98,7 +98,7 @@
 
 <table>
         <tr>
-            <th style="width: 150px;">Time</th>
+            <th style="width: 200px;">Time</th>
             <th style="width: 300px;">Wednesday</th>
             <th style="width: 300px;">Thursday</th>
             <th style="width: 300px;">Friday</th>
@@ -107,35 +107,20 @@
         <tr><td>08:30-08:50</td><td rowspan="2">Welcome</td></tr>
         <tr><td>08:50-09:00</td><td colspan="2">Welcome</td></tr>
         <tr>
-            <td style="height: 110px;">09:00-09:40</td>
+            <td>09:00-09:40</td>
             <td class="session" rowspan="3">
                 <div class="embed_container">
-                    <div class="embed_title">
-                    Impact of biometrical and breeding methods
-                    </div>
-                    <div class="embed_item">Plenary 1</div>
-                    <div class="embed_item">Talk 1, Talk 2</div>
-                    <div class="embed_item">Talk 3, Talk 4</div>
+                    <div class="embed_item">Impact of biometrical and breeding methods in public and private programs</div>
                 </div>
             </td>
             <td class="session" rowspan="3">
                 <div class="embed_container">
-                    <div class="embed_title">
-                    Modelling and leveraging GxE in the face of climate change
-                    </div>
-                    <div class="embed_item">Plenary 5</div>
-                    <div class="embed_item">Talk 17, Talk 18</div>
-                    <div class="embed_item">Talk 19, Talk 20</div>
+                    <div class="embed_item">Modelling and leveraging GxE in the face of climate change</div>
                 </div>
             </td>
             <td class="session" rowspan="3">
                 <div class="embed_container">
-                  <div class="embed_title">
-                  High-throughput modelling
-                  </div>
-                    <div class="embed_item">Plenary 7</div>
-                    <div class="embed_item">Talk 25, Talk 26</div>
-                    <div class="embed_item">Talk 27, Talk 28</div>
+                    <div class="embed_item">High-throughput modelling</div>
                 </div>
             </td>
         </tr>
@@ -147,35 +132,20 @@
         </tr>
         <tr><td>10:40-11:10</td><td class="break" colspan="3">Morning Tea (30 minutes)</td></tr>
          <tr>
-            <td style="height: 110px;">11:10-11:50</td>
+            <td>11:10-11:50</td>
             <td class="session" rowspan="3">
                 <div class="embed_container">
-                    <div class="embed_title">
-                    Design of individual and multi-environment trials
-                    </div>
-                    <div class="embed_item">Plenary 2</div>
-                    <div class="embed_item">Talk 5, Talk 6</div>
-                    <div class="embed_item">Talk 7, Talk 8</div>
+                    <div class="embed_item">Design of individual and multi-environment trials</div>
                 </div>
             </td>
             <td class="session" rowspan="3">
                 <div class="embed_container">
-                    <div class="embed_title">
-                    Modelling and leveraging GxE
-                    </div>
-                    <div class="embed_item">Plenary 6</div>
-                    <div class="embed_item">Talk 21, Talk 22</div>
-                    <div class="embed_item">Talk 23, Talk 24</div>
+                    <div class="embed_item">Modelling and leveraging GxE (including epidemiological modelling of disease/pathogens)</div>
                 </div>
             </td>
             <td class="session" rowspan="3">
                 <div class="embed_container">
-                  <div class="embed_title">
-                  AI/Machine learning techniques in practice
-                  </div>
-                    <div class="embed_item">Plenary 8</div>
-                    <div class="embed_item">Talk 29, Talk 30</div>
-                    <div class="embed_item">Talk 31, Talk 32</div>
+                    <div class="embed_item">AI/Machine learning techniques in practice</div>
                 </div>
             </td>
         </tr>
@@ -192,25 +162,15 @@
         </div>
         </td></tr>
         <tr>
-            <td style="height: 110px;">13:50-14:30</td>
+            <td>13:50-14:30</td>
             <td class="session" rowspan="3">
                 <div class="embed_container">
-                    <div class="embed_title">
-                    Genetic and genomic modelling of plant breeding data
-                    </div>
-                    <div class="embed_item">Plenary 3</div>
-                    <div class="embed_item">Talk 9, Talk 10</div>
-                    <div class="embed_item">Talk 11, Talk 12</div>
+                    <div class="embed_item">Genetic and genomic modelling of plant breeding data</div>
                 </div>
             </td>
             <td class="session" rowspan="3">
                 <div class="embed_container" rowspan="3">
-                  <div class="embed_title">
-                  Genetic diversity and long-term genetic gains
-                  </div>
-                    <div class="embed_item">Plenary 9</div>
-                    <div class="embed_item">Talk 33, Talk 34</div>
-                    <div class="embed_item">Talk 35, Talk 36</div>
+                    <div class="embed_item">Genetic diversity and long-term genetic gains</div>
                 </div>
             </td>
         </tr>
@@ -222,15 +182,10 @@
         </tr>
         <tr><td>15:30-16:00</td><td class="break">Afternoon Tea (30 mins)</td><td class="break" rowspan="5">Conference Ends</td></tr>
         <tr>
-            <td style="height: 110px;">16:00-16:40</td>
+            <td>16:00-16:40</td>
             <td class="session" rowspan="3">
                 <div class="embed_container">
-                    <div class="embed_title">
-                    Beyond genetic and genomic modelling
-                    </div>
-                    <div class="embed_item">Plenary 4</div>
-                    <div class="embed_item">Talk 13, Talk 14</div>
-                    <div class="embed_item">Talk 15, Talk 16</div>
+                    <div class="embed_item">Beyond genetic and genomic modelling (including multiple data streams, hierarchical LMMs, etc) </div>
                 </div>
             </td>
         </tr>
