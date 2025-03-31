@@ -4,11 +4,9 @@
   <div style="flex: 1; padding: 10px; background: #f9fff9; border-left: 5px solid #4CAF50; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); margin-left: 15px;">
   <strong>📅 Important Dates:</strong>
   <ul>
-    <li><strong>Registration Opens:</strong> TBD</li>
-    <li><strong>Early Registration Close:</strong> TBD</li>
-    <li><strong>Standard Registration Close:</strong> TBD</li>
-    <li><strong>Abstract Submission Opens:</strong> TBD</li>
-    <li><strong>Abstract Submission Opens:</strong> TBD</li>
+    <li><strong>Early Registration Closes:</strong> 15th June</li>
+    <li><strong>Standard Registration Closes:</strong> 15th August</li>
+    <li><strong>Abstract Submission Opens:</strong> 15th June</li>
   </ul>
   </div>
 

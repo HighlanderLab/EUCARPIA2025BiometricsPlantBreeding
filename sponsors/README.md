@@ -26,10 +26,13 @@ We are grateful to our sponsors.
 <a href="https://www.bayer.com/en/">
     <img src="../assets/img/sponser_bayer_logo.png" alt="Bayer" style="height:150px;">
 </a>
-</div>
-GDM
 
-<div style="text-align: center;">
+<br>
+<a href="https://www.gdmseeds.com/en/home-en/">
+    <img src="../assets/img/sponser_GDM_logo.jpg" alt="GDM" style="height:250px;">
+</a>
+<br>
+
 <a href="https://www.limagrain.com/en">
     <img src="../assets/img/sponser_limagrain_logo.png" alt="limagrain" style="height:150px;">
 </a>

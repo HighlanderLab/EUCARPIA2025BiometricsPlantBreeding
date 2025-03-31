@@ -39,11 +39,10 @@ María Xosé Rodríguez Álvarez earned her PhD in Mathematics from the Universi
 ## Pascal Schopp, KWS Group
 <img src="../assets/img/profilePascal.jpg" alt="Profile Picture" width="200" height="200" align="left" style="margin-right: 20px;">  
 
-Pascal Schopp is the head of Corn Breeding Europe Mid-Late at KWS.
+Pascal Schopp is the Head of Corn Breeding Europe Mid-Late at KWS, where he is responsible for germplasm and product development in the mid-early to mid-late dent grain corn markets. He leads multiple breeding programs across Europe.
 
-He received his MSc in Plant Breeding from the University of Hohenheim, Germany, where he continued to study for a PhD.
+Pascal holds an MSc in Plant Breeding from the University of Hohenheim, Germany, where he also completed his PhD at the Institute of Applied Plant Breeding. During his PhD studies, Pascal worked on genomic prediction methodology and its application in plant breeding.
 
-<br><br><br><br><br>
 ## Julian Taylor, University of Adelaide
 ## Andrea Wilson, University of Edinburgh
 <img src="../assets/img/profileAndrea.jpg" alt="Profile Picture" width="200" height="200" align="left" style="margin-right: 20px;">  
