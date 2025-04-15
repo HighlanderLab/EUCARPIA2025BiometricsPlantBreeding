@@ -40,5 +40,7 @@ The nearest tram stop is located at St Andrews Square, providing frequent connec
 ## Conference dinner
 The conference dinner is going to be held at [Mansfield Traquair](https://www.mansfieldtraquair.co.uk/) Edinburgh, ([Google maps](https://www.bing.com/maps?q=Mansfield+Traquair&PC=U316&FORM=CHROMN)).
 
+We have an exciting night planned with delicious food and a bit of history, following by a true scottish dance experience. We are looking forward to hosting you at our conference dinner!
+
 ## Satellite workshop
 Please refer to the [workshop page](../satellite_workshop/).
