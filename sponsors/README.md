@@ -18,6 +18,13 @@ We are grateful to our sponsors.
 # Gold
 
 <div style="text-align: center;">
+<style>
+    .spacer {
+        margin-top: 60px;
+        margin-right: 300px;
+        display: flex;
+    }
+</style>
 <a href="https://abacusbio.com/">
     <img src="../assets/img/sponser_abacusbio_logo.png" alt="Abacusbio" style="height:60px;">
 </a>
@@ -37,10 +44,18 @@ We are grateful to our sponsors.
     <img src="../assets/img/sponser_limagrain_logo.png" alt="limagrain" style="height:150px;">
 </a>
 
+
 <a href="https://www.rijkzwaan.nl/home">
     <img src="../assets/img/sponser_rijkzwaan_logo.png" alt="rijkzwaan" style="height:150px;">
-</a>
+</a> 
+
 </div>
+<div style="display: flex; justify-content: flex-end; align-items: flex-start; margin-top: -90px; margin-right: 120px;">
+    <a href="{{ 'sponsors/rijkzwaan' | relative_url }}">
+        <img src="../assets/img/play_icon.jpg" alt="play video" style="height:50px;">
+    </a>
+</div>
+
 
 # Silver
 
