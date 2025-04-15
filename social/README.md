@@ -1,6 +1,6 @@
 # Social events
 
-Thursday afternoon is allocated for social activities. This allows attendees to be tourists in the truly wonderful city of Edinburgh. There will be a range of activities to choose from. These include (but are not limited to):
+Thursday afternoon is allocated for social activities. This allows attendees to be tourists in the truly wonderful city of Edinburgh. There will be a range of activities to choose from. We are planning some unique Edinburgh social activities, including:
 
 - Guided walking tour through Edinburgh Old Town
 
