@@ -41,13 +41,12 @@ There will be nine session as shown below. We envisage that each session will ha
             position: relative;
         }
         .embed_title {
-            display: flex;
             flex-direction: column;
-            align-items: center;
             margin-bottom: 0px;
+            margin-top: -10px;
             background:rgb(143, 94, 163);
             color: white;
-            padding: 8px 5px;
+            padding: 5px 10px;
             border-radius: 8px;
             white-space: normal;
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
@@ -55,10 +54,12 @@ There will be nine session as shown below. We envisage that each session will ha
             text-align: center; 
             line-height: 1.4; 
             font-weight: bold;
+            width: 110%;
         }
         .embed_item {
             margin: 5px 0;
-            font-weight: bold;
+            font-size: 14px;
+            /* font-weight: bold; */
         }
         .poster_container {
             display: flex;
@@ -110,16 +111,19 @@ There will be nine session as shown below. We envisage that each session will ha
             <td>09:00-09:40</td>
             <td class="session" rowspan="3">
                 <div class="embed_container">
+                    <div class="embed_title">Gary Atlin</div>
                     <div class="embed_item">Impact of biometrical and breeding methods in public and private programs</div>
                 </div>
             </td>
             <td class="session" rowspan="3">
                 <div class="embed_container">
+                    <div class="embed_title">Steven Penfield</div>
                     <div class="embed_item">Modelling and leveraging GxE in the face of climate change</div>
                 </div>
             </td>
             <td class="session" rowspan="3">
                 <div class="embed_container">
+                    <div class="embed_title" >María Xosé Rodríguez-Álvarez</div>
                     <div class="embed_item">High-throughput modelling</div>
                 </div>
             </td>
@@ -135,16 +139,19 @@ There will be nine session as shown below. We envisage that each session will ha
             <td>11:10-11:50</td>
             <td class="session" rowspan="3">
                 <div class="embed_container">
+                    <div class="embed_title" >Rosemary Bailey</div>
                     <div class="embed_item">Design of individual and multi-environment trials</div>
                 </div>
             </td>
             <td class="session" rowspan="3">
                 <div class="embed_container">
+                    <div class="embed_title" >Andrea Wilson</div>
                     <div class="embed_item">Modelling and leveraging GxE (including epidemiological modelling of disease/pathogens)</div>
                 </div>
             </td>
             <td class="session" rowspan="3">
                 <div class="embed_container">
+                    <div class="embed_title" >Julian Taylor</div>
                     <div class="embed_item">AI/Machine learning techniques in practice</div>
                 </div>
             </td>
@@ -165,11 +172,13 @@ There will be nine session as shown below. We envisage that each session will ha
             <td>13:50-14:30</td>
             <td class="session" rowspan="3">
                 <div class="embed_container">
+                    <div class="embed_title" >Pascal Schopp</div>
                     <div class="embed_item">Genetic and genomic modelling of plant breeding data</div>
                 </div>
             </td>
             <td class="session" rowspan="3">
                 <div class="embed_container" rowspan="3">
+                    <div class="embed_title" >Sarah Hearne</div>
                     <div class="embed_item">Genetic diversity and long-term genetic gains</div>
                 </div>
             </td>
@@ -185,6 +194,7 @@ There will be nine session as shown below. We envisage that each session will ha
             <td>16:00-16:40</td>
             <td class="session" rowspan="3">
                 <div class="embed_container">
+                    <div class="embed_title" >Hao Cheng</div>
                     <div class="embed_item">Beyond genetic and genomic modelling (including multiple data streams, hierarchical LMMs, etc) </div>
                 </div>
             </td>
