@@ -1,6 +1,6 @@
 # Information for attendees 
 
-<img src="../assets/img/Information2.png" alt="Profile Picture" width="250" align="right" style="margin-left: 20px;"> 
+<img src="../assets/img/Information2.png" alt="Profile Picture" width="300" align="right" style="margin-left: 20px;"> 
 Edinburgh is a city of stunning architecture and rich culture, with a vibrant academic scene. 
 
 **Home to both medieval streets and modern innovation**, Edinburgh a great place to explore. From the **Royal Mile** to **Arthur’s Seat**, the **Pentlands** and beyond, the city and its surrounds offer plenty to see and experience! Discover more at [Visit Scotland](https://www.visitscotland.com/)
@@ -36,9 +36,17 @@ The Gallery has clear access directly outside the main entrance, allowing for ea
 **Getting there by Train or Tram**: Waverley Train Station is the closest train station, located less than half a mile from the College.    
 The nearest tram stop is located at St Andrews Square, providing frequent connections from the city centre to Edinburgh Airport in around 40 minutes. Trams depart frequently through the day from early morning into late evening.
 
-
 ## Conference dinner
 The conference dinner is going to be held at [Mansfield Traquair](https://www.mansfieldtraquair.co.uk/) Edinburgh, ([Google maps](https://www.bing.com/maps?q=Mansfield+Traquair&PC=U316&FORM=CHROMN)).
+
+We have an exciting night planned with delicious food and a bit of history, followed by a true scottish dance experience. We are looking forward to hosting you at our conference dinner!
+
+<img src="../assets/img/dinner_venue.jpg" alt="Dinner venue" align="left" style="height:250px;margin-left: 96px;"> 
+<img src="../assets/img/dinner_venue2.jpg" alt="Dinner venue2" align="right" style="height:250px;margin-right: 96px;"> 
+<br><br>
+<br><br>
+<br><br>
+<br><br>
 
 ## Satellite workshop
 Please refer to the [workshop page](../satellite_workshop/).
