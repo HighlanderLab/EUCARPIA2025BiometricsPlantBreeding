@@ -5,7 +5,7 @@ title:
 # Welcome
 ![logo](./assets/img/Edinburgh_Castle_2.jpg)
 
-We are delighted that you a visiting the pages of the 2025 EUCARPIA Biometrics conference, to be held at Edinburgh.
+We are delighted that you a visiting the pages of the XIX EUCARPIA Biometrics in Plant Breeding Conference, Edinburgh, 17-19 September 2025.
 ## Financial support 
 We are very grateful to [our sponsors](./sponsors/) for their support.
 ## Contact
