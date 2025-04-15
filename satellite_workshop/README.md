@@ -4,7 +4,7 @@ We are going to hold a workshop on using the **[AlphaSimR](https://cran.r-projec
 
 ✅ Time: 15-16th September 2025 
 
-🏫 Place: The Roslin Institute, seminar room B-006
+🏫 Place: The Roslin Institute, Basement Seminar Room B-006
 
 ## Instructors
 * [Gregor Gorjanc](https://www.linkedin.com/in/gregorgorjanc/)
@@ -12,7 +12,7 @@ We are going to hold a workshop on using the **[AlphaSimR](https://cran.r-projec
 * [Chris Gaynor](https://www.linkedin.com/in/chris-gaynor-136550249/)
     
 ## About the venue
-The [Easter Bush Campus](https://www.ed.ac.uk/roslin/about/our-campus) of The University of Edinburgh ([Goolge maps](https://maps.app.goo.gl/L636reGtE8aLS9XZ7)) hosts The Roslin Institute, The Royal Dick School of Veterinary Medicine, The Global Academy of Agriculture and Food Systems, and a range of startups and established businesses.
+The [Easter Bush Campus](https://www.ed.ac.uk/roslin/about/our-campus) of The University of Edinburgh ([Goolge maps](https://maps.app.goo.gl/L636reGtE8aLS9XZ7)) hosts The Roslin Institute, The Royal (Dick) School of Veterinary Medicine, The Global Academy of Agriculture and Food Systems, and a range of startups and established businesses.
 
 ### Getting there
 The Easter Bush campus is directly served by several local bus routes. To plan your journey, try using the  [Traveline Scotland journey planner](https://www.travelinescotland.com/lts/#/travelInfo), Google Maps, or the [Citymapper](https://citymapper.com/) app.
