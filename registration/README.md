@@ -6,7 +6,7 @@
   <ul>
     <li><strong>Early Registration Closes:</strong> 15th June</li>
     <li><strong>Standard Registration Closes:</strong> 15th August</li>
-    <li><strong>Abstract Submission Opens:</strong> 15th June</li>
+    <li><strong>Abstract Submission Closes:</strong> 15th June</li>
   </ul>
   </div>
 
