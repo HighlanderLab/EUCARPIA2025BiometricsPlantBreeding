@@ -44,6 +44,7 @@ Pascal Schopp is the Head of Corn Breeding Europe Mid-Late at KWS, where he is r
 Pascal holds an MSc in Plant Breeding from the University of Hohenheim, Germany, where he also completed his PhD at the Institute of Applied Plant Breeding. During his PhD studies, Pascal worked on genomic prediction methodology and its application in plant breeding.
 
 ## Julian Taylor, University of Adelaide
+<img src="../assets/img/profileJulian.png" alt="Profile Picture" width="200" height="200" align="left" style="margin-right: 20px;"> 
 
 Julian Taylor is an Associate Professor in the Biometry Hub at the Waite Agricultural Precinct of the University of Adelaide (UA). He is the Node Leader of the Analytics for the Australian Grains Industry in University of Adelaide (AAGI-UA), Grains Research and Development Corporation (GRDC) funded initiative to provide national analytics research support for the Australian Grains Industry. Within AAGI-AU Associate Prof. Taylor strategically manages a multi-disciplinary analytics teams across four schools and fosters the development of collaborative high impact analytics research, support and training activities. AAGI-AU, and other partners on the network, have broadened the analytics toolbox within the Australian grains industry to include biometry, machine learning, artificial intelligence, data science, mathematics as well as computational infrastructure to support the breadth of these analytics activities.
 
