@@ -20,6 +20,11 @@ R. A. Bailey is Professor of Statistics at the University of St Andrews, and a F
 Professor Cheng’s research is broadly involved in the development of statistical, machine learning, and computational methods that bridge the genome and phenome for the genetic improvement of populations through more accurate, efficient, and biologically meaningful analyses. Professor Cheng has focused on the use of genomics, phenomics, and other sources of omics data in various species to better predict desired traits and infer the mechanisms underlying them. This includes the theoretical aspects of quantitative genetics, such as statistical models and computational algorithms (e.g., genomic prediction and association studies), the development of software tools to apply these statistical methods and computational algorithms to real-life, large-scale omic data, and the application of these methods and tools to large datasets for a wide range of traits in various species.
 
 ## Sarah Hearne, CIMMYT
+
+<img src="../assets/img/profileSarah.jpg" alt="Profile Picture" width="200" align="left" style="margin-right: 20px;">  
+
+Sarah Hearne serves as the Chief Science and Innovation Officer (CSO) at CIMMYT, leading efforts to implement a cohesive, interconnected, and multidisciplinary approach to research and partnerships. Her role focuses on fostering collaboration, leveraging complementarities across CIMMYT’s core research areas, and ensuring the organization remains future-ready. Through strategic alignment, she drives CIMMYT’s ability to deliver on its cutting-edge mission and vision, advancing sustainable agricultural solutions on a global scale.
+
 ## Steven Penfield, John Innes Centre
 
 <img src="../assets/img/profileSteven.jpg" alt="Profile Picture" width="200" align="left" style="margin-right: 20px;">  
