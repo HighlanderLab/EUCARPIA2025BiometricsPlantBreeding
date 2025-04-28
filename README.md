@@ -5,7 +5,7 @@ title:
 # Welcome
 ![logo](./assets/img/Edinburgh_Castle_2.jpg)
 
-We are delighted that you a visiting the pages of the XIXth EUCARPIA Biometrics in Plant Breeding Conference, to be held at Edinburgh, 17-19 September 2025.
+We are delighted that you are visiting the pages of the XIXth EUCARPIA Biometrics in Plant Breeding Conference, to be held in Edinburgh, 17-19 September 2025.
 ## Financial support 
 We are very grateful to [our sponsors](./sponsors/) for their support.
 ## Contact
