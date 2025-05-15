@@ -73,4 +73,3 @@ We are grateful to our sponsors.
     <img src="../assets/img/sponser_NPZ_logo.png" alt="NPZ" style="height:200px;">
 </a>
 </div>
-

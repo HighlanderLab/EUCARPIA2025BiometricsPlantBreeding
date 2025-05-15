@@ -22,6 +22,12 @@ Edinburgh attracts many tourists over the summer, including September, meaning g
 
 We are contacting other local hotels and accommodations to negotiate a group discount and will provide more information shortly.
 
+Booking multi-room accommodation through Airbnb.com and Booking.com is cost-effective for larger groups. The bus network within Edinburgh is very good, so it is fine to stay further from the conference venue – just check the bus routes!
+If you are travelling on a budget, we recommend the following hostels:
+https://www.codehostels.com/ (two locations in the city, single rooms available)
+https://www.castlerockedinburgh.com/
+There are plenty of others to choose from!
+
 ## Conference venue
 The conference venue is [The Royal College of Physicians](https://www.rcpe.ac.uk) Edinburgh, ([Google maps](https://maps.app.goo.gl/73jkUjuGj2oSzkX17)).
 
