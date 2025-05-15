@@ -30,7 +30,6 @@ We are grateful to our sponsors.
 </a>
 <br>
 <br>
-<br>
 <a href="https://www.bayer.com/en/">
     <img src="../assets/img/sponser_bayer_logo.png" alt="Bayer" style="height:150px;">
 </a>
@@ -40,6 +39,12 @@ We are grateful to our sponsors.
     <img src="../assets/img/sponser_GDM_logo.jpg" alt="GDM" style="height:250px;">
 </a>
 <br>
+
+<a href="https://www.limagrain.com/en">
+    <img src="../assets/img/sponser_limagrain_logo.png" alt="limagrain" style="height:150px;">
+</a>
+
+
 <a href="https://www.rijkzwaan.nl/home">
     <img src="../assets/img/sponser_rijkzwaan_logo.png" alt="rijkzwaan" style="height:150px;">
 </a> 
@@ -68,4 +73,3 @@ We are grateful to our sponsors.
     <img src="../assets/img/sponser_NPZ_logo.png" alt="NPZ" style="height:200px;">
 </a>
 </div>
-
