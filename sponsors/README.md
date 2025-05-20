@@ -40,11 +40,6 @@ We are grateful to our sponsors.
 </a>
 <br>
 
-<a href="https://www.limagrain.com/en">
-    <img src="../assets/img/sponser_limagrain_logo.png" alt="limagrain" style="height:150px;">
-</a>
-
-
 <a href="https://www.rijkzwaan.nl/home">
     <img src="../assets/img/sponser_rijkzwaan_logo.png" alt="rijkzwaan" style="height:150px;">
 </a> 
