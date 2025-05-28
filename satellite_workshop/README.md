@@ -4,7 +4,7 @@ We are going to hold a workshop on using the **[AlphaSimR](https://cran.r-projec
 
 ✅ Time: 15-16th September 2025 
 
-🏫 Place: The Roslin Institute, Basement Seminar Room B-006
+🏫 Place: The Roslin Institute, the Roslin auditorium
 
 ## Instructors
 * [Gregor Gorjanc](https://www.linkedin.com/in/gregorgorjanc/)
