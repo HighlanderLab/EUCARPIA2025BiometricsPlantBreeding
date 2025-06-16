@@ -4,7 +4,7 @@
   <div style="flex: 1; padding: 10px; background: #f9fff9; border-left: 5px solid #4CAF50; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); margin-left: 15px;">
   <strong>📅 Important Dates:</strong>
   <ul>
-    <li><strong>Abstract Submission Closes:</strong> 15th June</li>
+    <li><strong>Abstract Submission Closes:</strong> 22nd June</li>
     <li><strong>Abstract feedback (talk vs. poster):</strong> 30th June</li>
     <li><strong>Early Registration Closes:</strong> 15th July</li>
     <li><strong>Registration Closes:</strong> 15th August</li>
@@ -50,7 +50,7 @@ If you are interested in our **[satellite workshop](../satellite_workshop/)** on
 ## Abstract submission
 Click **[here](https://docs.google.com/forms/d/e/1FAIpQLSfkE8NY46BnvTp8wEbvwzO8aBABcKxvso8XRkLVrrjPnv-Btg/viewform?usp=header)** to submit an abstract.
 
-The Organising Committee encourages all Conference Attendees to submit abstracts before **June 15, 2025**. The submitted abstracts will be revised by the International Scientific Committee. All accepted abstracts will be published in a digital Book of Abstracts.
+The Organising Committee encourages all Conference Attendees to submit abstracts before **June 22nd, 2025**. The submitted abstracts will be revised by the International Scientific Committee. All accepted abstracts will be published in a digital Book of Abstracts.
 
 During the submission process, you will be able to indicate whether you would like to give an oral presentation (depending on time slots availability, subject to selection by the scientific committee) or present a poster. Time constraints on the meeting may mean that some authors who request oral presentations will be asked to present a poster instead. We particularly encourage early career researchers to submit abstracts.
 
