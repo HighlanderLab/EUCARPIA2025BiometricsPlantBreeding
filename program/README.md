@@ -178,7 +178,7 @@ There will be nine session as shown below. We envisage that each session will ha
             </td>
             <td class="session" rowspan="3">
                 <div class="embed_container" rowspan="3">
-                    <div class="embed_title" >Sarah Hearne</div>
+                    <div class="embed_title" >Keith Gardner</div>
                     <div class="embed_item">Genetic diversity and long-term genetic gains</div>
                 </div>
             </td>
