@@ -22,6 +22,9 @@ Professor Cheng’s research is broadly involved in the development of statistic
 ## Keith Gardner, CIMMYT
 <img src="../assets/img/profileKeith.png" alt="Profile Picture" width="200" align="left" style="margin-right: 20px;">  
 
+<br>
+<br>
+
 ## Steven Penfield, John Innes Centre
 
 <img src="../assets/img/profileSteven.jpg" alt="Profile Picture" width="200" align="left" style="margin-right: 20px;">  
