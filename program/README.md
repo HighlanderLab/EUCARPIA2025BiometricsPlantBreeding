@@ -1,5 +1,7 @@
+
 # Scientific program
 There will be nine session as shown below. We envisage that each session will have one plenary and four contributed talks.
+<html>
 <style>
       table {
             width: 100%;
@@ -298,3 +300,4 @@ There will be nine session as shown below. We envisage that each session will ha
     });
   });
 </script>
+</html>
