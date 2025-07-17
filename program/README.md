@@ -274,8 +274,11 @@ There will be nine session as shown below. We envisage that each session will ha
     <p id="modalDetails3" style="padding-left: 2em;">title of talk 3</p>
     <p id="modalSubtitle4" style="font-weight: bold;">talk 4</p>
     <p id="modalDetails4" style="padding-left: 2em;">title of talk 4</p>
-    <div id="modalButton" onclick="closeModal()">
-    <span style="display:inline-block; margin-top:10px; padding:6px 12px; background:#ccc; border-radius:4px; cursor:pointer;">
+    <div id="modalButton">
+    <span onclick="closeModal()" 
+      style="display:inline-block; margin-top:10px; padding:6px 12px; background:#ccc; border-radius:4px; cursor:pointer;"
+      onmouseover="this.style.background='#999'; this.style.color='white';"
+      onmouseout="this.style.background='#4a148c'; this.style.color='white';">
       Close
     </span>
     </div>
