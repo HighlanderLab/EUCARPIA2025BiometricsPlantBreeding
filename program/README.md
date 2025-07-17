@@ -112,19 +112,19 @@ There will be nine session as shown below. We envisage that each session will ha
             <td class="session" rowspan="3">
                 <div class="embed_container">
                     <div class="embed_title">Gary Atlin</div>
-                    <div class="embed_item">Impact of biometrical and breeding methods in public and private programs</div>
+                    <div class="embed_item">Impact of biometrics in public and private breeding programs</div>
                 </div>
             </td>
             <td class="session" rowspan="3">
                 <div class="embed_container">
-                    <div class="embed_title">Steven Penfield</div>
-                    <div class="embed_item">Modelling and leveraging GxE in the face of climate change</div>
+                    <div class="embed_title" >Andrea Wilson</div>
+                    <div class="embed_item">Genotype performance, stability and resilience</div>
                 </div>
             </td>
             <td class="session" rowspan="3">
                 <div class="embed_container">
                     <div class="embed_title" >María Xosé Rodríguez-Álvarez</div>
-                    <div class="embed_item">High-throughput modelling</div>
+                    <div class="embed_item">High-throughput phenotyping</div>
                 </div>
             </td>
         </tr>
@@ -140,19 +140,19 @@ There will be nine session as shown below. We envisage that each session will ha
             <td class="session" rowspan="3">
                 <div class="embed_container">
                     <div class="embed_title" >Rosemary Bailey</div>
-                    <div class="embed_item">Design of individual and multi-environment trials</div>
+                    <div class="embed_item">Design of experiments and multi-environment trials</div>
                 </div>
             </td>
             <td class="session" rowspan="3">
                 <div class="embed_container">
-                    <div class="embed_title" >Andrea Wilson</div>
-                    <div class="embed_item">Modelling and leveraging GxE (including epidemiological modelling of disease/pathogens)</div>
+                    <div class="embed_title">Steven Penfield</div>
+                    <div class="embed_item">Modelling and leveraging genotype by environment interaction</div>
                 </div>
             </td>
             <td class="session" rowspan="3">
                 <div class="embed_container">
                     <div class="embed_title" >Julian Taylor</div>
-                    <div class="embed_item">AI/Machine learning techniques in practice</div>
+                    <div class="embed_item">Artificial Intelligence and machine learning in practice</div>
                 </div>
             </td>
         </tr>
@@ -179,7 +179,7 @@ There will be nine session as shown below. We envisage that each session will ha
             <td class="session" rowspan="3">
                 <div class="embed_container" rowspan="3">
                     <div class="embed_title" >Keith Gardner</div>
-                    <div class="embed_item">Genetic diversity and long-term genetic gains</div>
+                    <div class="embed_item">Managing genetic diversity and maximising long-term genetic gains</div>
                 </div>
             </td>
         </tr>
@@ -195,7 +195,7 @@ There will be nine session as shown below. We envisage that each session will ha
             <td class="session" rowspan="3">
                 <div class="embed_container">
                     <div class="embed_title" >Hao Cheng</div>
-                    <div class="embed_item">Beyond genetic and genomic modelling (including multiple data streams, hierarchical LMMs, etc) </div>
+                    <div class="embed_item">Innovative models with unconventional data streams </div>
                 </div>
             </td>
         </tr>
