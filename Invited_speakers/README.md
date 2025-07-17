@@ -23,14 +23,7 @@ Professor Cheng’s research is broadly involved in the development of statistic
 
 <img src="../assets/img/profileKeith.png" alt="Profile Picture" width="200" align="left" style="margin-right: 20px;">  
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+Keith Gardner is head of the Biometrics and Quantitative Genetics Unit at CIMMYT. CIMMYT is a non-profit, international applied agricultural science organization dedicated to fostering improved quantity, quality, and dependability of production systems and basic cereals such as maize, wheat, triticale, sorghum, millets, and associated crops, particularly in the Global South. Through this endeavour, CIMMYT enhances the livelihood trajectories and resilience of millions of resource-poor farmers, while working towards a more productive, inclusive, and resilient agrifood system within planetary boundaries. As head of the Biometrics and Quantitative Genetics Unit, Keith works with CIMMYT breeding teams and national partners to develop efficient analysis pipelines, to optimize breeding schemes to accelerate genetic gain, and to effectively manage the deployment of novel useful variation from discovery research into plant breeding programs. Keith holds a PhD in Evolutionary Biology and Genetics from Indiana University and prior to working at CIMMYT, he was Program Leader in Quantitative Genetics at NIAB, a non-profit applied agricultural research institute based in Cambridge, UK. 
 
 ## Steven Penfield, John Innes Centre
 
@@ -62,6 +55,7 @@ Julian Taylor is an Associate Professor in the Biometry Hub at the Waite Agricul
 
 ## Andrea Wilson, University of Edinburgh
 <img src="../assets/img/profileAndrea.jpg" alt="Profile Picture" width="200" height="200" align="left" style="margin-right: 20px;">  
+
 Andrea Doeschl-Wilson is Professor of Animal Disease Genetics and Modelling at the Roslin Institute at the University of Edinburgh in the UK, where she leads a research group. Her research group uses mathematical modelling to assess and predict how genetic and non-genetic factors influence host responses and impact to the infectious or harmful social environment of farm animals. She also leads the Roslin Institute Strategic Programme on the Prevention and Control of Infectious Diseases.  
 
 
