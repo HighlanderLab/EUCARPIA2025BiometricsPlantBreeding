@@ -272,7 +272,7 @@ There will be nine session as shown below. We envisage that each session will ha
     <p id="modalDetails3" style="padding-left: 2em;">title of talk 3</p>
     <p id="modalSubtitle4" style="font-weight: bold;">talk 4</p>
     <p id="modalDetails4" style="padding-left: 2em;">title of talk 4</p>
-    <button onclick="closeModal()">Close</button>
+    <button id="closeBtn">Close</button>
   </div>
 </div>
 
@@ -292,7 +292,9 @@ There will be nine session as shown below. We envisage that each session will ha
     document.getElementById('modal').style.display = 'flex';
   }
 
-  function closeModal() {
-    document.getElementById('modal').style.display = 'none';
-  }
+  document.addEventListener('DOMContentLoaded', function () {
+    document.getElementById("closeBtn").addEventListener("click", function () {
+      document.getElementById("modal").style.display = "none";
+    });
+  });
 </script>
