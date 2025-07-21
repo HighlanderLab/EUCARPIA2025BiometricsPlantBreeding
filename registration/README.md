@@ -4,9 +4,9 @@
   <div style="flex: 1; padding: 10px; background: #f9fff9; border-left: 5px solid #4CAF50; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); margin-left: 15px;">
   <strong>📅 Important Dates:</strong>
   <ul>
-    <li><strong>Abstract Submission Closes:</strong> 22nd June</li>
+    <li><strong>Abstract Submission Closes:</strong> now closed </li>
     <li><strong>Abstract feedback (talk vs. poster):</strong> 30th June</li>
-    <li><strong>Early Registration Closes:</strong> 15th July</li>
+    <li><strong>Early Registration Closes:</strong> 22th July</li>
     <li><strong>Registration Closes:</strong> 15th August</li>
     <li><strong>AlphaSimR&FieldSimR workshop:</strong>  15-16th September</li>
     <li><strong>Conference:</strong> 17-19th September</li>
