@@ -8,7 +8,7 @@
     <li><strong>Abstract feedback (talk vs. poster):</strong> 30th June</li>
     <li><strong>Early Registration Closes:</strong> 22th July</li>
     <li><strong>Registration Closes:</strong> 15th August</li>
-    <li><strong>AlphaSimR&FieldSimR workshop:</strong>  15-16th September</li>
+    <li><strong>AlphaSimR&FieldSimR workshop:</strong>  15-16th September (now full) </li>
     <li><strong>Conference:</strong> 17-19th September</li>
   </ul>
   </div>
