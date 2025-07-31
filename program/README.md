@@ -158,19 +158,19 @@ There will be nine session as shown below. We envisage that each session will ha
             <td class="session" rowspan="3">
                 <div class="embed_container" onclick="openModal('Session 1: Impact of biometrics in public and private breeding programs', '9-9:40am: Gary Ailin, Bill & Melinda Gates Foundation', 'title of talk','9:40-9:55am: talker', 'title of talk','9:55-10:10am: talker', 'title of talk','10:10-10:25am: talker', 'title of talk','10:25-9:40am: talker', 'title of talk')">
                     <div class="embed_title">Gary Atlin</div>
-                    <div class="embed_item">Impact of biometrics in public and private breeding programs</div>
+                    <div class="embed_item">S1: Impact of biometrics in public and private breeding programs</div>
                 </div>
             </td>
             <td class="session" rowspan="3">
                 <div class="embed_container" onclick="openModal('Session 5: Genotype performance, stability and resilience', '9-9:40am: Andrea Wilson, University of Edinburgh', 'title of talk','9:40-9:55am: talker', 'title of talk','9:55-10:10am: talker', 'title of talk','10:10-10:25am: talker', 'title of talk','10:25-9:40am: talker', 'title of talk')">
                     <div class="embed_title" >Andrea Wilson</div>
-                    <div class="embed_item">Genotype performance, stability and resilience</div>
+                    <div class="embed_item">S5: Genotype performance, stability and resilience</div>
                 </div>
             </td>
             <td class="session" rowspan="3">
                 <div class="embed_container" onclick="openModal('Session 7: High-throughput phenotyping', '9-9:40am: María Xosé Rodríguez-Álvarez, University of Vigo', 'title of talk','9:40-9:55am: talker', 'title of talk','9:55-10:10am: talker', 'title of talk','10:10-10:25am: talker', 'title of talk','10:25-9:40am: talker', 'title of talk')">
                     <div class="embed_title" >María Xosé Rodríguez-Álvarez</div>
-                    <div class="embed_item">High-throughput phenotyping</div>
+                    <div class="embed_item">S7: High-throughput phenotyping</div>
                 </div>
             </td>
         </tr>
@@ -186,19 +186,19 @@ There will be nine session as shown below. We envisage that each session will ha
             <td class="session" rowspan="3">
                 <div class="embed_container" onclick="openModal('Session 2: Design of experiments and multi-environment trials', '11:10-11:50am: Rosemary Bailey, University of St Andrews', 'Designs with more than one blocking system: the conflict between valid randomization and latinization','11:50-12:05am: talker', 'title of talk','12:05-12:20am: talker', 'title of talk','12:20-12:35am: talker', 'title of talk','12:35-12:50am: talker', 'title of talk')">
                     <div class="embed_title">Rosemary Bailey</div>
-                    <div class="embed_item">Design of experiments and multi-environment trials</div>
+                    <div class="embed_item">S2: Design of experiments and multi-environment trials</div>
                 </div>
             </td>
             <td class="session" rowspan="3">
                 <div class="embed_container" onclick="openModal('Session 6: Modelling and leveraging genotype by environment interaction', '11:10-11:50am: Steven Penfield, John Innes Centre', 'title of talk','11:50-12:05am: talker', 'title of talk','12:05-12:20am: talker', 'title of talk','12:20-12:35am: talker', 'title of talk','12:35-12:50am: talker', 'title of talk')">
                     <div class="embed_title">Steven Penfield</div>
-                    <div class="embed_item">Modelling and leveraging genotype by environment interaction</div>
+                    <div class="embed_item">S6: Modelling and leveraging genotype by environment interaction</div>
                 </div>
             </td>
             <td class="session" rowspan="3">
                 <div class="embed_container" onclick="openModal('Session 8: Artificial Intelligence and machine learning in practice', '11:10-11:50am: Julian Taylor, University of Adelaide', 'title of talk','11:50-12:05am: talker', 'title of talk','12:05-12:20am: talker', 'title of talk','12:20-12:35am: talker', 'title of talk','12:35-12:50am: talker', 'title of talk')">
                     <div class="embed_title" >Julian Taylor</div>
-                    <div class="embed_item">Artificial Intelligence and machine learning in practice</div>
+                    <div class="embed_item">S8: Artificial Intelligence and machine learning in practice</div>
                 </div>
             </td>
         </tr>
@@ -219,13 +219,13 @@ There will be nine session as shown below. We envisage that each session will ha
             <td class="session" rowspan="3">
                 <div class="embed_container" onclick="openModal('Session 3: Genetic and genomic modelling of plant breeding data', '13:50-14:30pm: Pascal Schopp, KWS Group', 'A genomic selection reality check from industry: what moves the needle in genetic gain','14:30-14:45pm: talker', 'title of talk','14:45-15:00pm: talker', 'title of talk','15:00-15:15pm: talker', 'title of talk','15:15-15:30pm: talker', 'title of talk')">
                     <div class="embed_title" >Pascal Schopp</div>
-                    <div class="embed_item">Genetic and genomic modelling of plant breeding data</div>
+                    <div class="embed_item">S3: Genetic and genomic modelling of plant breeding data</div>
                 </div>
             </td>
             <td class="session" rowspan="3">
                 <div class="embed_container" rowspan="3" onclick="openModal('Session 9: Managing genetic diversity and maximising long-term genetic gains', '13:50-14:30pm: Keith Gardner, CIMMYT', 'title of talk','14:30-14:45pm: talker', 'title of talk','14:45-15:00pm: talker', 'title of talk','15:00-15:15pm: talker', 'title of talk','15:15-15:30pm: talker', 'title of talk')">
                     <div class="embed_title" >Keith Gardner</div>
-                    <div class="embed_item">Managing genetic diversity and maximising long-term genetic gains</div>
+                    <div class="embed_item">S9: Managing genetic diversity and maximising long-term genetic gains</div>
                 </div>
             </td>
         </tr>
@@ -241,7 +241,7 @@ There will be nine session as shown below. We envisage that each session will ha
             <td class="session" rowspan="3">
                 <div class="embed_container" onclick="openModal('Session 4: Innovative models with unconventional data streams', '16:00-16:40pm: Hao Cheng, UC Davis', 'title of talk','16:40-16:55pm: talker', 'title of talk','16:55-17:10pm: talker', 'title of talk','17:10-17:25pm: talker', 'title of talk','17:25-17:40pm: talker', 'title of talk')">
                     <div class="embed_title" >Hao Cheng</div>
-                    <div class="embed_item">Innovative models with unconventional data streams </div>
+                    <div class="embed_item">S4: Innovative models with unconventional data streams </div>
                 </div>
             </td>
         </tr>
