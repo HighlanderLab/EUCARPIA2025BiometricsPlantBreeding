@@ -48,7 +48,7 @@ Click **[here](https://www.epay.ed.ac.uk/conferences-and-events/college-of-medic
 If you are interested in our **[satellite workshop](../satellite_workshop/)** on simulating breeding programmes, you will be able to book that as an add-on during registration. *Please note that the workshop will take place on September 15th and 16th, before the conference!*
 
 ## Abstract submission
-Click **[here](https://docs.google.com/forms/d/e/1FAIpQLSfkE8NY46BnvTp8wEbvwzO8aBABcKxvso8XRkLVrrjPnv-Btg/viewform?usp=header)** to submit an abstract.
+Now closed.
 
 The Organising Committee encourages all Conference Attendees to submit abstracts before **June 22nd, 2025**. The submitted abstracts will be revised by the International Scientific Committee. All accepted abstracts will be published in a digital Book of Abstracts.
 
