@@ -156,19 +156,31 @@ There will be nine session as shown below. We envisage that each session will ha
         <tr>
             <td>09:00-09:40</td>
             <td class="session" rowspan="3">
-                <div class="embed_container" onclick="openModal('Session 1: Impact of biometrics in public and private breeding programs', '9-9:40am: Gary Ailin, Bill & Melinda Gates Foundation', 'title of talk','9:40-9:55am: talker', 'title of talk','9:55-10:10am: talker', 'title of talk','10:10-10:25am: talker', 'title of talk','10:25-9:40am: talker', 'title of talk')">
+                <div class="embed_container" onclick="openModal('Session 1: Impact of biometrics in public and private breeding programs', '9-9:40am: Gary Ailin, Bill & Melinda Gates Foundation', 'Early-stage sparse testing can increase selection accuracy and genetic gain in plant breeding programs',
+                '9:40-9:55am: Christian Werner', 'Reviving the Desired Gains Index: an optimal solution for parent selection in plant breeding programmes',
+                '9:55-10:10am: Wubishet Bekele ', 'Lessons from a Decade of Streamlining Genomic Selection in Oat Breeding Programs at AAFC',
+                '10:10-10:25am: Augustin Desprez', 'Twenty years of asymmetrical hybrid breeding drives diversity and targets domestication genes in commercial elite sugar beet inbreds',
+                '10:25-9:40am: Leticia Lara ', 'Trait prioritization and economic modelling to guide strategic decisions in pea breeding program')">
                     <div class="embed_title">Gary Atlin</div>
                     <div class="embed_item">S1: Impact of biometrics in public and private breeding programs</div>
                 </div>
             </td>
             <td class="session" rowspan="3">
-                <div class="embed_container" onclick="openModal('Session 5: Genotype performance, stability and resilience', '9-9:40am: Andrea Wilson, University of Edinburgh', 'title of talk','9:40-9:55am: talker', 'title of talk','9:55-10:10am: talker', 'title of talk','10:10-10:25am: talker', 'title of talk','10:25-9:40am: talker', 'title of talk')">
+                <div class="embed_container" onclick="openModal('Session 5: Genotype performance, stability and resilience', '9-9:40am: Andrea Wilson, University of Edinburgh', 'G x Infectious E: Breeding for reduced pathogen transmission',
+                '9:40-9:55am: Emilia Koch', 'A hurdle model for ordinal scoring data with an underlying percentage scale',
+                '9:55-10:10am: Lucia Gutierrez', 'How many environments do we really need for yield stability prediction in cereals',
+                '10:10-10:25am: Dominic Waters', 'The role of stability metrics in plant breeding programmes',
+                '10:25-9:40am: Hugo Dorado', 'Estimating genetic performance and variability on-farm using ranking data')">
                     <div class="embed_title" >Andrea Wilson</div>
                     <div class="embed_item">S5: Genotype performance, stability and resilience</div>
                 </div>
             </td>
             <td class="session" rowspan="3">
-                <div class="embed_container" onclick="openModal('Session 7: High-throughput phenotyping', '9-9:40am: María Xosé Rodríguez-Álvarez, University of Vigo', 'title of talk','9:40-9:55am: talker', 'title of talk','9:55-10:10am: talker', 'title of talk','10:10-10:25am: talker', 'title of talk','10:25-9:40am: talker', 'title of talk')">
+                <div class="embed_container" onclick="openModal('Session 7: High-throughput phenotyping', '9-9:40am: María Xosé Rodríguez-Álvarez, University of Vigo', 'Spatio-Temporal Modelling of Genotypic Performance in High-Throughput Phenotyping',
+                '9:40-9:55am: Corné Verburg', 'Bridging Genomic Prediction and Crop Growth Modeling with System Identification for Nonlinear Dynamics (SINDy)',
+                '9:55-10:10am: Timothy Thavarajah', 'Deploying computer vision and bivariate genomic prediction to improve blackleg disease resistance in canola breeding',
+                '10:10-10:25am: Ángela Prudencio', 'Integration of new RFID-based pollinator parameters into plant phenotyping and breeding selection indexes under climate change pressure',
+                '10:25-9:40am: Clément Bienvenu', 'Optimizing GxE Prediction in Phenomic Selection Using Chemometric Decomposition of NIRS Data')">
                     <div class="embed_title" >María Xosé Rodríguez-Álvarez</div>
                     <div class="embed_item">S7: High-throughput phenotyping</div>
                 </div>
@@ -184,19 +196,31 @@ There will be nine session as shown below. We envisage that each session will ha
          <tr>
             <td>11:10-11:50</td>
             <td class="session" rowspan="3">
-                <div class="embed_container" onclick="openModal('Session 2: Design of experiments and multi-environment trials', '11:10-11:50am: Rosemary Bailey, University of St Andrews', 'Designs with more than one blocking system: the conflict between valid randomization and latinization','11:50-12:05am: talker', 'title of talk','12:05-12:20am: talker', 'title of talk','12:20-12:35am: talker', 'title of talk','12:35-12:50am: talker', 'title of talk')">
+                <div class="embed_container" onclick="openModal('Session 2: Design of experiments and multi-environment trials', '11:10-11:50am: Rosemary Bailey, University of St Andrews', 'Designs with more than one blocking system: the conflict between valid randomization and latinization',
+                '11:50-12:05am: Emi Tanaka', 'Leveraging large language models in a composable system to design and simulate plant experiments',
+                '12:05-12:20am: Karen Wolf', 'On Deficient Experimental Designs and Their Analysis',
+                '12:20-12:35am: Michaela Jung', 'Designing multi-environment reference populations in perennials: Do\'s and don\'ts',
+                '12:35-12:50am: Bjarne Nielsen', 'Power calculations for testing genetic correlation between pure- and mixture line effects in wheat breeding')">
                     <div class="embed_title">Rosemary Bailey</div>
                     <div class="embed_item">S2: Design of experiments and multi-environment trials</div>
                 </div>
             </td>
             <td class="session" rowspan="3">
-                <div class="embed_container" onclick="openModal('Session 6: Modelling and leveraging genotype by environment interaction', '11:10-11:50am: Steven Penfield, John Innes Centre', 'title of talk','11:50-12:05am: talker', 'title of talk','12:05-12:20am: talker', 'title of talk','12:20-12:35am: talker', 'title of talk','12:35-12:50am: talker', 'title of talk')">
+                <div class="embed_container" onclick="openModal('Session 6: Modelling and leveraging genotype by environment interaction', '11:10-11:50am: Steven Penfield, John Innes Centre', 'Exploiting genotype by environment interactions to breed for local adaptation and climate change resilience in winter rapeseed',
+                '11:50-12:05am: Shanice Van Haeften', 'Characterising Genotypic Stability and Environmental Responsiveness in Australian Chickpea',
+                '12:05-12:20am: Jip Ramakers', 'Multiple-covariate random regression for predicting yield across the Australian wheatbelt',
+                '12:20-12:35am: Killian Melsen', 'REML implementations of kernel-based multi-trait, multi-environment genomic prediction models',
+                '12:35-12:50am: Wera Eckhoff', 'Tailoring AI and ML Models for Genotype-by-Environment Prediction Leveraging Environmental Covariates: A European Rye Example')">
                     <div class="embed_title">Steven Penfield</div>
                     <div class="embed_item">S6: Modelling and leveraging genotype by environment interaction</div>
                 </div>
             </td>
             <td class="session" rowspan="3">
-                <div class="embed_container" onclick="openModal('Session 8: Artificial Intelligence and machine learning in practice', '11:10-11:50am: Julian Taylor, University of Adelaide', 'title of talk','11:50-12:05am: talker', 'title of talk','12:05-12:20am: talker', 'title of talk','12:20-12:35am: talker', 'title of talk','12:35-12:50am: talker', 'title of talk')">
+                <div class="embed_container" onclick="openModal('Session 8: Artificial Intelligence and machine learning in practice', '11:10-11:50am: Julian Taylor, University of Adelaide', 'title of talk',
+                '11:50-12:05am: Tally Wright', 'Exploring Random Forest-based genomic prediction for optimised selection of reference barley varieties for inclusion in DUS distinctiveness evaluation',
+                '12:05-12:20am: Carles Quesada-Traver', 'Opportunities and limitations of deep learning-based multi-environment genomic prediction',
+                '12:20-12:35am: Natasha Johansen', 'Evolutionary-scale protein language models effectively uncover beneficial variants in a sorghum bicolor diversity panel',
+                '12:35-12:50am: Sarah Ghysels', 'Image-based yield prediction for tall fescue using random forests and convolutional neural networks')">
                     <div class="embed_title" >Julian Taylor</div>
                     <div class="embed_item">S8: Artificial Intelligence and machine learning in practice</div>
                 </div>
@@ -217,13 +241,21 @@ There will be nine session as shown below. We envisage that each session will ha
         <tr>
             <td>13:50-14:30</td>
             <td class="session" rowspan="3">
-                <div class="embed_container" onclick="openModal('Session 3: Genetic and genomic modelling of plant breeding data', '13:50-14:30pm: Pascal Schopp, KWS Group', 'A genomic selection reality check from industry: what moves the needle in genetic gain','14:30-14:45pm: talker', 'title of talk','14:45-15:00pm: talker', 'title of talk','15:00-15:15pm: talker', 'title of talk','15:15-15:30pm: talker', 'title of talk')">
+                <div class="embed_container" onclick="openModal('Session 3: Genetic and genomic modelling of plant breeding data', '13:50-14:30pm: Pascal Schopp, KWS Group', 'A genomic selection reality check from industry: what moves the needle in genetic gain',
+                '14:30-14:45pm: Yong Jiang ', 'An efficient and powerful algorithm for detecting heterotic QTL',
+                '14:45-15:00pm: Tristan Mary-Huard', 'A Composite Hypothesis Testing Approach to Detect Pleiotropic Genomic Regions',
+                '15:00-15:15pm: Antero Heikkilä ', 'Approximating prediction error variances of genomic models using Monte Carlo sampling',
+                '15:15-15:30pm: Javier Fernández-González', 'Why REML variance estimates have no biological meaning and how to solve it')">
                     <div class="embed_title" >Pascal Schopp</div>
                     <div class="embed_item">S3: Genetic and genomic modelling of plant breeding data</div>
                 </div>
             </td>
             <td class="session" rowspan="3">
-                <div class="embed_container" rowspan="3" onclick="openModal('Session 9: Managing genetic diversity and maximising long-term genetic gains', '13:50-14:30pm: Keith Gardner, CIMMYT', 'title of talk','14:30-14:45pm: talker', 'title of talk','14:45-15:00pm: talker', 'title of talk','15:00-15:15pm: talker', 'title of talk','15:15-15:30pm: talker', 'title of talk')">
+                <div class="embed_container" rowspan="3" onclick="openModal('Session 9: Managing genetic diversity and maximising long-term genetic gains', '13:50-14:30pm: Keith Gardner, CIMMYT', 'title of talk',
+                '14:30-14:45pm: Carolina Rivera-Poulsen', 'A rapid cycling selection experiment in maize landraces',
+                '14:45-15:00pm: Kira Villiers', 'An algorithm for mate selection by haplotype stacking',
+                '15:00-15:15pm: Sónia Surgy', 'The maximisation of the genetic gains of the polyclonal selection in grapevine varieties using integer programming',
+                '15:15-15:30pm: Seifelden Metwally', 'A novel framework to control genetic diversity for optimal genomic mating')">
                     <div class="embed_title" >Keith Gardner</div>
                     <div class="embed_item">S9: Managing genetic diversity and maximising long-term genetic gains</div>
                 </div>
@@ -239,7 +271,11 @@ There will be nine session as shown below. We envisage that each session will ha
         <tr>
             <td>16:00-16:40</td>
             <td class="session" rowspan="3">
-                <div class="embed_container" onclick="openModal('Session 4: Innovative models with unconventional data streams', '16:00-16:40pm: Hao Cheng, UC Davis', 'title of talk','16:40-16:55pm: talker', 'title of talk','16:55-17:10pm: talker', 'title of talk','17:10-17:25pm: talker', 'title of talk','17:25-17:40pm: talker', 'title of talk')">
+                <div class="embed_container" onclick="openModal('Session 4: Innovative models with unconventional data streams', '16:00-16:40pm: Hao Cheng, UC Davis', 'Beyond Mixed Models: Integrative Models for Agricultural G2P Using Unconventional Data Streams',
+                '16:40-16:55pm: Hannah Robinson', 'Leveraging Multi-Omics for Predictive Modelling in Perennial Crops: A Case Study in Grapevine',
+                '16:55-17:10pm: Aiyesa Leke Victor', 'Genomic Prediction at the Root: From one plant to better populations',
+                '17:10-17:25pm: Timothée Flutre', 'Quantifying the genetic basis of mixing ability and investigating its genetic architecture: case studies in wheat varietal mixtures and wheat-pea intercrops',
+                '17:25-17:40pm: Nicolas Salas', 'When Durum Wheat grows together with Alfalfa: The Genetic Dialogue of Neighboring Plants')">
                     <div class="embed_title" >Hao Cheng</div>
                     <div class="embed_item">S4: Innovative models with unconventional data streams </div>
                 </div>
