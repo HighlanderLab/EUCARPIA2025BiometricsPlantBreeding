@@ -267,7 +267,13 @@ There will be nine session as shown below. We envisage that each session will ha
         <tr>
         <td>15:00-15:30</td>
         </tr>
-        <tr><td>15:30-16:00</td><td class="break">Afternoon Tea (30 mins)</td><td class="break" rowspan="5">Conference Ends</td></tr>
+        <tr><td>15:30-16:00</td><td class="break">Afternoon Tea (30 mins)</td>
+              <td class="break" rowspan="3">        
+              <div class="poster_container">
+                <div class="poster_item">Drinks Reception & Poster Session 1</div>
+              </div>
+              </td>
+              <td class="break" rowspan="2">Conference Ends</td></tr>
         <tr>
             <td>16:00-16:40</td>
             <td class="session" rowspan="3">
