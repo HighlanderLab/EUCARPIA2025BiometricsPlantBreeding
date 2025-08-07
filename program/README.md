@@ -271,7 +271,7 @@ There will be nine session as shown below. We envisage that each session will ha
               <td class="break">Afternoon Tea (30 mins)</td>
               <td class="break" rowspan="3">        
               <div class="poster_container">
-                <div class="poster_item">Drinks Reception & Poster Session 1</div>
+                <div class="poster_item">Poster Session 2</div>
               </div>
               </td>
         </tr>
