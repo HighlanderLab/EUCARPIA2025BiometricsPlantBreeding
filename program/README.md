@@ -293,6 +293,7 @@ There will be nine session as shown below. We envisage that each session will ha
         </tr>
         <tr>
         <td>17:10-17:40</td>
+        <td class="break" rowspan="2">Conference Ends</td>
         </tr>
         <tr><td>17:40-</td>
         <td class="break">
