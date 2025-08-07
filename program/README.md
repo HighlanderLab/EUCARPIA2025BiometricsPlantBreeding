@@ -290,7 +290,7 @@ There will be nine session as shown below. We envisage that each session will ha
         <tr><td>17:40-</td>
         <td class="break">
         <div class="poster_container">
-          <div class="poster_item">Poster Session</div>
+          <div class="poster_item">Drinks Reception & Poster Session 1</div>
         </div>
         </td>
         </tr>
