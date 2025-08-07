@@ -160,7 +160,7 @@ There will be nine session as shown below. We envisage that each session will ha
                 '9:40-9:55: Christian Werner', 'Reviving the Desired Gains Index: an optimal solution for parent selection in plant breeding programmes',
                 '9:55-10:10: Wubishet Bekele ', 'Lessons from a Decade of Streamlining Genomic Selection in Oat Breeding Programs at AAFC',
                 '10:10-10:25: Augustin Desprez', 'Twenty years of asymmetrical hybrid breeding drives diversity and targets domestication genes in commercial elite sugar beet inbreds',
-                '10:25-9:40: Leticia Lara ', 'Trait prioritization and economic modelling to guide strategic decisions in pea breeding program')">
+                '10:25-10:40: Leticia Lara ', 'Trait prioritization and economic modelling to guide strategic decisions in pea breeding program')">
                     <div class="embed_title">Gary Atlin</div>
                     <div class="embed_item">S1: Impact of biometrics in public and private breeding programs</div>
                 </div>
@@ -170,7 +170,7 @@ There will be nine session as shown below. We envisage that each session will ha
                 '9:40-9:55: Emilia Koch', 'A hurdle model for ordinal scoring data with an underlying percentage scale',
                 '9:55-10:10: Lucia Gutierrez', 'How many environments do we really need for yield stability prediction in cereals',
                 '10:10-10:25: Dominic Waters', 'The role of stability metrics in plant breeding programmes',
-                '10:25-9:40: Hugo Dorado', 'Estimating genetic performance and variability on-farm using ranking data')">
+                '10:25-10:40: Hugo Dorado', 'Estimating genetic performance and variability on-farm using ranking data')">
                     <div class="embed_title" >Andrea Wilson</div>
                     <div class="embed_item">S5: Genotype performance, stability and resilience</div>
                 </div>
@@ -180,7 +180,7 @@ There will be nine session as shown below. We envisage that each session will ha
                 '9:40-9:55: Corné Verburg', 'Bridging Genomic Prediction and Crop Growth Modeling with System Identification for Nonlinear Dynamics (SINDy)',
                 '9:55-10:10: Timothy Thavarajah', 'Deploying computer vision and bivariate genomic prediction to improve blackleg disease resistance in canola breeding',
                 '10:10-10:25: Ángela Prudencio', 'Integration of new RFID-based pollinator parameters into plant phenotyping and breeding selection indexes under climate change pressure',
-                '10:25-9:40: Clément Bienvenu', 'Optimizing GxE Prediction in Phenomic Selection Using Chemometric Decomposition of NIRS Data')">
+                '10:25-10:40: Clément Bienvenu', 'Optimizing GxE Prediction in Phenomic Selection Using Chemometric Decomposition of NIRS Data')">
                     <div class="embed_title" >María Xosé Rodríguez-Álvarez</div>
                     <div class="embed_item">S7: High-throughput phenotyping</div>
                 </div>
@@ -219,8 +219,8 @@ There will be nine session as shown below. We envisage that each session will ha
                 <div class="embed_container" onclick="openModal('Session 8: Artificial Intelligence and machine learning in practice', '11:10-11:50: Julian Taylor, University of Adelaide', 'title of talk',
                 '11:50-12:05: Tally Wright', 'Exploring Random Forest-based genomic prediction for optimised selection of reference barley varieties for inclusion in DUS distinctiveness evaluation',
                 '12:05-12:20: Carles Quesada-Traver', 'Opportunities and limitations of deep learning-based multi-environment genomic prediction',
-                '12:20-12:35: Natasha Johansen', 'Evolutionary-scale protein language models effectively uncover beneficial variants in a sorghum bicolor diversity panel',
-                '12:35-12:50: Sarah Ghysels', 'Image-based yield prediction for tall fescue using random forests and convolutional neural networks')">
+                '12:20-12:35: Sarah Ghysels', 'Image-based yield prediction for tall fescue using random forests and convolutional neural networks',
+                '12:35-12:50: Natasha Johansen', 'Evolutionary-scale protein language models effectively uncover beneficial variants in a sorghum bicolor diversity panel')">
                     <div class="embed_title" >Julian Taylor</div>
                     <div class="embed_item">S8: Artificial Intelligence and machine learning in practice</div>
                 </div>
@@ -267,7 +267,14 @@ There will be nine session as shown below. We envisage that each session will ha
         <tr>
         <td>15:00-15:30</td>
         </tr>
-        <tr><td>15:30-16:00</td><td class="break">Afternoon Tea (30 mins)</td><td class="break" rowspan="5">Conference Ends</td></tr>
+        <tr><td>15:30-16:00</td>
+              <td class="break">Afternoon Tea (30 mins)</td>
+              <td class="break" rowspan="3">        
+              <div class="poster_container">
+                <div class="poster_item">Poster Session 2</div>
+              </div>
+              </td>
+        </tr>
         <tr>
             <td>16:00-16:40</td>
             <td class="session" rowspan="3">
@@ -286,11 +293,12 @@ There will be nine session as shown below. We envisage that each session will ha
         </tr>
         <tr>
         <td>17:10-17:40</td>
+        <td class="break" rowspan="2">Conference Ends</td>
         </tr>
         <tr><td>17:40-</td>
         <td class="break">
         <div class="poster_container">
-          <div class="poster_item">Poster Session</div>
+          <div class="poster_item">Drinks Reception & Poster Session 1</div>
         </div>
         </td>
         </tr>
