@@ -14,6 +14,7 @@ Edinburgh Airport is served by international and domestic connections. It prides
 
 **By train**: Travel to Edinburgh Waverley (the main station) or Edinburgh Haymarket, depending on the location of your accommodation.
 
+**From the EU**: If you are EU/EAA/Swiss citizen, beware the recently-changed rules for travelling to the UK. While you need no visa, you will need to apply for an Electronic Travel Authorisation (ETA) ahead of time, [guidance here](https://www.gov.uk/guidance/visiting-the-uk-as-an-eu-eea-or-swiss-citizen).
 
 ## Accommodation
 
