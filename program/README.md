@@ -2,6 +2,7 @@
 # Scientific program
 There will be nine session as shown below. We envisage that each session will have one plenary and four contributed talks.
 
+💡 Tip: Click on each session title to view the full session programme and details.
 <style>
       table {
             width: 100%;
