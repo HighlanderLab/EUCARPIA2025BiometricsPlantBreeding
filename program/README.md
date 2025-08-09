@@ -252,7 +252,7 @@ There will be nine session as shown below. We envisage that each session will ha
                 </div>
             </td>
             <td class="session" rowspan="3">
-                <div class="embed_container" rowspan="3" onclick="openModal('Session 9: Managing genetic diversity and maximising long-term genetic gains', '13:50-14:30: Keith Gardner, CIMMYT', 'title of talk',
+                <div class="embed_container" rowspan="3" onclick="openModal('Session 9: Managing genetic diversity and maximising long-term genetic gains', '13:50-14:30: Keith Gardner, CIMMYT', 'Effective and Efficient Utilization of Gene Bank Resources using Quantitative Genetics',
                 '14:30-14:45: Carolina Rivera-Poulsen', 'A rapid cycling selection experiment in maize landraces',
                 '14:45-15:00: Kira Villiers', 'An algorithm for mate selection by haplotype stacking',
                 '15:00-15:15: Sónia Surgy', 'The maximisation of the genetic gains of the polyclonal selection in grapevine varieties using integer programming',
