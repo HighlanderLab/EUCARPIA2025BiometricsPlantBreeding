@@ -6,6 +6,8 @@ We are going to hold a workshop on using the **[AlphaSimR](https://cran.r-projec
 
 🏫 Place: The Roslin Institute, the Roslin auditorium
 
+For WiFi guests can follow [the link](https://information-services.ed.ac.uk/computing/desktop-personal/wifi-networking/guest-alumni-wifi-access).
+
 ## Instructors
 * [Gregor Gorjanc](https://www.linkedin.com/in/gregorgorjanc/)
 * [Daniel Tolhurst](https://www.linkedin.com/in/daniel-tolhurst-8abb5685/)
