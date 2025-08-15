@@ -157,7 +157,7 @@ There will be nine session as shown below. We envisage that each session will ha
         <tr>
             <td>09:00-09:40</td>
             <td class="session" rowspan="3">
-                <div class="embed_container" onclick="openModal('Session 1: Impact of biometrics in public and private breeding programs', '9-9:40: Gary Ailin, Bill & Melinda Gates Foundation', 'Early-stage sparse testing can increase selection accuracy and genetic gain in plant breeding programs',
+                <div class="embed_container" onclick="openModal('Session 1: Impact of biometrics in public and private breeding programs', '9-9:40: Gary Atlin, Bill & Melinda Gates Foundation', 'Early-stage sparse testing can increase selection accuracy and genetic gain in plant breeding programs',
                 '9:40-9:55: Christian Werner', 'Reviving the Desired Gains Index: an optimal solution for parent selection in plant breeding programmes',
                 '9:55-10:10: Wubishet Bekele ', 'Lessons from a Decade of Streamlining Genomic Selection in Oat Breeding Programs at AAFC',
                 '10:10-10:25: Augustin Desprez', 'Twenty years of asymmetrical hybrid breeding drives diversity and targets domestication genes in commercial elite sugar beet inbreds',
@@ -233,7 +233,7 @@ There will be nine session as shown below. We envisage that each session will ha
         <tr>
         <td>12:20-12:50</td>
         </tr>
-        <tr><td>12:50-13:20</td><td class="break"  rowspan="2">Lunch (1 hour)</td><td class="break">Pick up lunch before social events</td><td class="break"  rowspan="2">Lunch  (1 hour)</td></tr>
+        <tr><td>12:50-13:20</td><td class="break"  rowspan="2">Lunch (1 hour)</td><td class="break">Packed lunch supplied before social events</td><td class="break"  rowspan="2">Lunch  (1 hour)</td></tr>
         <tr><td>13:20-13:50</td><td class="break"  rowspan="9">
         <div>
         Social Program
