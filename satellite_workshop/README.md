@@ -6,6 +6,8 @@ We are going to hold a workshop on using the **[AlphaSimR](https://cran.r-projec
 
 🏫 Place: The Roslin Institute, the Roslin auditorium
 
+To connect to the guest **Wi-Fi**, please see the official guide provided by the University of Edinburgh: [Connecting to Guest & Visitor Wi-Fi](https://information-services.ed.ac.uk/computing/desktop-personal/wifi-networking/guest-alumni-wifi-access).
+
 ## Instructors
 * [Gregor Gorjanc](https://www.linkedin.com/in/gregorgorjanc/)
 * [Daniel Tolhurst](https://www.linkedin.com/in/daniel-tolhurst-8abb5685/)
