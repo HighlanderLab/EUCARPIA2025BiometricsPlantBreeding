@@ -2,7 +2,7 @@
 
 Thursday afternoon is allocated for social activities. This allows attendees to be tourists in the truly wonderful city of Edinburgh. There will be a range of activities to choose from. We are planning some unique Edinburgh social activities, including:
 
-| Social events | Linkage for more information |
+| Social events | Link for more information |
 |---|---|
 |Arthurs Seat Hike|	[https://geowalks.scot/arthurs-seat/arthurs-seat-self-guided-walks/](https://geowalks.scot/arthurs-seat/arthurs-seat-self-guided-walks/)|
 |Royal Botanical Gardens|	[https://www.rbge.org.uk/](https://www.rbge.org.uk/)|
