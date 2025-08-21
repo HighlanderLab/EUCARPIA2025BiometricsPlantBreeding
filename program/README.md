@@ -217,7 +217,7 @@ There will be nine session as shown below. We envisage that each session will ha
                 </div>
             </td>
             <td class="session" rowspan="3">
-                <div class="embed_container" onclick="openModal('Session 8: Artificial Intelligence and machine learning in practice', '11:10-11:50: Julian Taylor, University of Adelaide', 'title of talk',
+                <div class="embed_container" onclick="openModal('Session 8: Artificial Intelligence and machine learning in practice', '11:10-11:50: Julian Taylor, University of Adelaide', 'Integrating artificial intelligence and machine learning capability into Australian grains agriculture',
                 '11:50-12:05: Tally Wright', 'Exploring Random Forest-based genomic prediction for optimised selection of reference barley varieties for inclusion in DUS distinctiveness evaluation',
                 '12:05-12:20: Carles Quesada-Traver', 'Opportunities and limitations of deep learning-based multi-environment genomic prediction',
                 '12:20-12:35: Sarah Ghysels', 'Image-based yield prediction for tall fescue using random forests and convolutional neural networks',
