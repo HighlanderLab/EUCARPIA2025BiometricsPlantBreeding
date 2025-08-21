@@ -6,7 +6,7 @@ Thursday afternoon is allocated for social activities. This allows attendees to 
 |---|---|
 |Arthurs Seat Hike|	[https://geowalks.scot/arthurs-seat/arthurs-seat-self-guided-walks/](https://geowalks.scot/arthurs-seat/arthurs-seat-self-guided-walks/)|
 |Royal Botanical Gardens|	[https://www.rbge.org.uk/](https://www.rbge.org.uk/)|
-|National Museum of Scotland|	[https://www.nms.ac.uk/national-museum-of-scotland](https://www.nms.ac.uk/national-museum-of-scotland))
+|National Museum of Scotland|	[https://www.nms.ac.uk/national-museum-of-scotland](https://www.nms.ac.uk/national-museum-of-scotland)|
 |Surgeons Hall Museum| [https://museum.rcsed.ac.uk/](https://museum.rcsed.ac.uk/)|
 |Edinburgh Castle|	[https://www.edinburghcastle.scot/](https://www.edinburghcastle.scot/)|
 |Palace of Holyroodhouse|	[https://www.rct.uk/visit/palace-of-holyroodhouse](https://www.rct.uk/visit/palace-of-holyroodhouse)|
