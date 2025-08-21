@@ -19,7 +19,7 @@ Edinburgh Airport is served by international and domestic connections. It prides
 ## Accommodation
 
 <img src="../assets/img/information4.jpg" alt="Profile Picture" width="160" align="right" style="margin-left: 20px;"> 
-Edinburgh attracts many tourists over the summer, including September, meaning good and affordable accommodation can be hard to find. We suggest that you find and book accommodation as soon as possible! The conference venue (RCPE) has discounts with some hotels, using discount codes on booking as described in [the linked document](../assets/pdf/Hotels 2025.pdf). Please take advantage of this!
+Edinburgh attracts many tourists over the summer, including September, meaning good and affordable accommodation can be hard to find. We suggest that you find and book accommodation as soon as possible! The conference venue (RCPE) has discounts with some hotels, using discount codes on booking as described in [the linked document](../assets/pdf/Hotels 2025(updated).pdf). Please take advantage of this!
 
 We are contacting other local hotels and accommodations to negotiate a group discount and will provide more information shortly.
 
