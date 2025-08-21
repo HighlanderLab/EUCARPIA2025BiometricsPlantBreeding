@@ -15,6 +15,5 @@ Thursday afternoon is allocated for social activities. This allows attendees to 
 There will be something to cater for everyone!
 We hope the sun will shine, but it's always wise to bring a raincoat in Scotland, just in case!
 
-More details will come soon.
 
 ![Social Events](../assets/img/Social_event.jpg)
