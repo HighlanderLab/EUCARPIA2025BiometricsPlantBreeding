@@ -151,7 +151,7 @@ There will be nine session as shown below. We envisage that each session will ha
             <th style="width: 300px;">Thursday</th>
             <th style="width: 300px;">Friday</th>
         </tr>
-        <tr><td>08:00-08:30</td><td>Registration & Coffee</td><td rowspan="2" colspan="2"></td></tr>
+        <tr><td>08:00-08:30</td><td>Registration & Coffee</td><td rowspan="2" colspan="2">tea</td></tr>
         <tr><td>08:30-08:50</td><td rowspan="2">Welcome</td></tr>
         <tr><td>08:50-09:00</td><td colspan="2">Welcome</td></tr>
         <tr>
