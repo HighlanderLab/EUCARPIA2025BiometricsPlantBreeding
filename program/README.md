@@ -156,9 +156,9 @@ There will be nine session as shown below. We envisage that each session will ha
   align-items: center;
 }
 #posterModalTitle {
-    font-size: 16px;
-    margin: 10px 0;
-    color: #B2B9E8;
+    margin-top: 0;
+    font-size: 20px;
+    color: #737CBB;
 }
 #posterList {
     font-size: 16px;
@@ -374,7 +374,7 @@ There will be nine session as shown below. We envisage that each session will ha
     <ol id="posterList" style="font-size:16px; line-height:1.6;"></ol>
     <div>
       <span onclick="closePosterModal()" 
-        style="display:inline-block; margin-top:10px; padding:6px 12px; background:#4a148c; color:white; border-radius:6px; cursor:pointer;">
+        style="display:inline-block; margin-top:10px; padding:6px 12px; background:#B2B9E8; color:white; border-radius:6px; cursor:pointer;">
         Close
       </span>
     </div>
