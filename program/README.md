@@ -355,7 +355,7 @@ There will be nine session as shown below. We envisage that each session will ha
         {title:'',author:''},
               {title:'',author:''},
               {title:'',author:''},
-              {title:'',author:''}], 1)">
+              {title:'',author:''}])">
           <div class="poster_item">Drinks Reception & Poster Session 1</div>
         </div>
         </td>
@@ -420,7 +420,7 @@ There will be nine session as shown below. We envisage that each session will ha
   function closeModal() {
     document.getElementById("modal").style.display = "none";
   }
-  function openPosterModal(title, posters，start) {
+  function openPosterModal(title, posters) {
   document.getElementById('posterModalTitle').innerText = title;
   let list = document.getElementById('posterList');
   list.innerHTML = "";
@@ -428,7 +428,7 @@ There will be nine session as shown below. We envisage that each session will ha
   let li = document.createElement("li");
   li.style.marginBottom = "10px";
   li.style.listStyleType = "none";
-  li.innerHTML = `<div><strong>${i+start}. ${p.title}</strong><br><span style="margin-left:20px;"><em>${p.author}</em></span></div>`;
+  li.innerHTML = `<div><strong>${i}. ${p.title}</strong><br><span style="margin-left:20px;"><em>${p.author}</em></span></div>`;
   list.appendChild(li);
   });
   document.getElementById('posterModal').style.display = 'flex';
