@@ -1,4 +1,4 @@
-
+<img width="468" height="15" alt="image" src="https://github.com/user-attachments/assets/45453b4c-ad41-4418-98c9-1553c8f219ee" />
 # Scientific program
 There will be nine session as shown below. We envisage that each session will have one plenary and four contributed talks.
 
@@ -298,7 +298,15 @@ There will be nine session as shown below. We envisage that each session will ha
         </tr>
         <tr><td>17:40-</td>
         <td class="break">
-        <div class="poster_container">
+        <div class="poster_container" onclick="openPosterModal('Poster Session 1', [
+  {title:'Disentangling the genetic and environmental factors influencing GxE for barley yield', author:'Stephanie Brunner, Zachary Aldiss, Samir Alahmad, Hans-Peter Piepho, Silvina Baraibar, Dini Ganesalingam, David Moody, Lee Hickey, Kai Voss-Fels & Hannah Robinson'},
+              {title:'AI-Driven Analysis of Big Biological Data to Decode Genotype-Environment Interaction', author:'Huihui Li'},
+              {title:'From light to biomass: using dynamic photosynthesis data to improve biomass predictions', author:'Junita Solin, Tom Theeuwen, Martin Boer, and Fred van Eeuwijk'},
+              {title:'Elucidating the genetic architecture of heterosis in Central European wheat', author:'Guoliang Li, Yong Jiang, Renate H. Schmidt, Jochen C. Reif'},
+              {title:'Ideas and recommendations for optimal field experimental designs in artificial selection programs', author:'Alexandre Colmant, Fabiano Pita, Giovanny Covarrubias-Pazaran'},
+              {title:'Using phenomic selection to predict hybrid values of parental lines in nurseries – Proof of concept on maize', author:'Renaud Rincent, Junita Solin, Jérémy Labrosse, Adam Serghini, Marc Labadie, Alexis Comar, Laurence Moreau'},
+              {title:'A crop growth R module for genotype x environment simulation',author:'Miguel Pérez-Enciso, Daniela Bustos-Korts, Chuang Zhao, Senthold Asseng, Fred van Eeuwijk'}]),
+              ">
           <div class="poster_item">Drinks Reception & Poster Session 1</div>
         </div>
         </td>
@@ -347,6 +355,35 @@ There will be nine session as shown below. We envisage that each session will ha
   }
 
   function closeModal() {
+    document.getElementById("modal").style.display = "none";
+  }
+</script>
+<!-- Poster Modal -->
+<div id="posterModal" style="display:none; position:fixed; z-index:9999; left:60px; top:0; width:100%; height:100%; background:rgba(0,0,0,0.4); justify-content:center; align-items:center;">
+  <div style="background:white; padding:20px; border-radius:10px; max-width:650px; max-height:80%; overflow-y:auto;">
+    <h2 id="posterModalTitle">Poster Session</h2>
+    <ol id="posterList" style="font-size:16px; line-height:1.6;"></ol>
+    <div>
+      <span onclick="closePosterModal()" 
+        style="display:inline-block; margin-top:10px; padding:6px 12px; background:#4a148c; color:white; border-radius:6px; cursor:pointer;">
+        Close
+      </span>
+    </div>
+  </div>
+</div>
+<script>
+function openPosterModal(title, posters) {
+  document.getElementById('posterModalTitle').innerText = title;
+  let list = document.getElementById('posterList');
+  list.innerHTML = "";
+  posters.forEach((p, i) => {
+    let li = document.createElement("li");
+    li.innerHTML = `<div><strong>${p.title}</strong><br><em>${p.author}</em></div>`;
+    list.appendChild(li);
+  });
+  document.getElementById('posterModal').style.display = 'flex';
+}
+function closePosterModal() {
     document.getElementById("modal").style.display = "none";
   }
 </script>
