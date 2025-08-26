@@ -161,7 +161,8 @@ There will be nine session as shown below. We envisage that each session will ha
     color: #737CBB;
 }
 #posterList {
-    font-size: 16px;
+      font-size: 16px;
+      margin-top: 0;
 }
 #modalPosterButton span {
     padding: 6px 12px;
@@ -329,7 +330,7 @@ There will be nine session as shown below. We envisage that each session will ha
         <tr><td>17:40-</td>
         <td class="break">
         <div class="poster_container" onclick="openPosterModal('Poster Session 1', [
-  {title:'Disentangling the genetic and environmental factors influencing GxE for barley yield', author:'Stephanie Brunner, Zachary Aldiss, Samir Alahmad, Hans-Peter Piepho, Silvina Baraibar, Dini Ganesalingam, David Moody, Lee Hickey, Kai Voss-Fels & Hannah Robinson'},
+              {title:'Disentangling the genetic and environmental factors influencing GxE for barley yield', author:'Stephanie Brunner, Zachary Aldiss, Samir Alahmad, Hans-Peter Piepho, Silvina Baraibar, Dini Ganesalingam, David Moody, Lee Hickey, Kai Voss-Fels & Hannah Robinson'},
               {title:'AI-Driven Analysis of Big Biological Data to Decode Genotype-Environment Interaction', author:'Huihui Li'},
               {title:'From light to biomass: using dynamic photosynthesis data to improve biomass predictions', author:'Junita Solin, Tom Theeuwen, Martin Boer, and Fred van Eeuwijk'},
               {title:'Elucidating the genetic architecture of heterosis in Central European wheat', author:'Guoliang Li, Yong Jiang, Renate H. Schmidt, Jochen C. Reif'},
@@ -340,22 +341,23 @@ There will be nine session as shown below. We envisage that each session will ha
               {title:'Increasing nitrogen use efficiency of winter oilseed rape (Brassica napus L.) by improving genetics and cultivation system interaction',author:'Daniel Valle Torres, Sebastian Warnemünde, Nazanin Zamani-Noor, Milka Malenica, Christian Flachenecker, Amine Abbadi, Franz-Leopold Haupt, Jakob Streuber, Thomas Kreuter, Sven Weber, Benjamin Pommerrenig, Andreas Stahl'},
               {title:'Quality over Quantity? The optimized allocation of quality samples of perennial ryegrass in Bavarian state cultivar trials',author:'Anne-Katrin Gorn, Jens Hartung, Stephan Hartmann, Hans-Peter Piepho'},
               {title:'Breeding for Maize Varieties with Reduced Carbon Footprints',author:'K. R. Grant, C. M. Richardson, T. Olivera,  L. Lara, C. Adams, M. Post, T. Byrne, P. Amer, W. Bourdoncle, R. Bouchon, L. Busswinkel, S. Larmer, B. Gardunia'},
-        {title:'Leveraging Disentangled Representations to Predict Unobserved Genotype-Environment Combinations in Phenomic Selection',author:'Hugo Gangloff, Do Than Dat Le, Renaud Rincent, Julie Aubert, Tristan Mary-Huard'},
+              {title:'Leveraging Disentangled Representations to Predict Unobserved Genotype-Environment Combinations in Phenomic Selection',author:'Hugo Gangloff, Do Than Dat Le, Renaud Rincent, Julie Aubert, Tristan Mary-Huard'},
               {title:'Disentangling the genetic response to seasonal and environmental drivers',author:'Katharine F. Preedy, Brezo Mateos, Robert D. Hancock, Julie Graham'},
               {title:'Introducing the 2NP matrix in genomic prediction: A novel genomic matrix that merges the strengths of classical and machine learning methods in plant breeding',author:'Bright Enogieru Osatohanmwen, Dr. Indalécio Cunha Vieira Júnior, Prof. Dr. A. Reza Sharifi, Prof. Dr. Timothy Beissinger'},
               {title:'Sparse testcrossing for early-stage genomic prediction of general combining ability to increase genetic gain in maize hybrid breeding programs',author:'David O. González-Diéguez, Gary N. Atlin, Yoseph Beyene, Dagne Wegary, Dorcus C. Gemenet, Christian R. Werner'},
-        {title:'Harnessing Genetic Diversity from the Wider Cultivated Gene Pool to Advance Trait Analysis and Breeding in Potato',author:'Karen McLean, Mads Sønderkær, Glenn Bryan, Sanjeev Kumar Sharma'},
+              {title:'Harnessing Genetic Diversity from the Wider Cultivated Gene Pool to Advance Trait Analysis and Breeding in Potato',author:'Karen McLean, Mads Sønderkær, Glenn Bryan, Sanjeev Kumar Sharma'},
               {title:'Study of the impact of genome editing in a perennial species breeding program through simulations',author:'Xabi Cazenave, Jérôme Bartholomé, Mathieu Tiret, Alain Charcosset, Laurence Moreau, Leopoldo Sanchez'},
               {title:'Robustness Evaluation of Machine Learning Models in Genomic Prediction',author:'Vanda M. Lourenço, Hans-Peter Piepho & Joseph O. Ogutu'},
               {title:'',author:''},
-        {title:'',author:''},
               {title:'',author:''},
               {title:'',author:''},
               {title:'',author:''},
-        {title:'',author:''},
               {title:'',author:''},
               {title:'',author:''},
-              {title:'',author:''}])">
+              {title:'',author:''},
+              {title:'',author:''},
+              {title:'',author:''}
+        ])">
           <div class="poster_item">Drinks Reception & Poster Session 1</div>
         </div>
         </td>
@@ -420,13 +422,13 @@ There will be nine session as shown below. We envisage that each session will ha
   function closeModal() {
     document.getElementById("modal").style.display = "none";
   }
+  
   function openPosterModal(title, posters) {
   document.getElementById('posterModalTitle').innerText = title;
   let list = document.getElementById('posterList');
   list.innerHTML = "";
   posters.forEach((p, i) => {
   let li = document.createElement("li");
-  li.style.marginBottom = "10px";
   li.style.listStyleType = "none";
   li.innerHTML = `<div><strong>${i}. ${p.title}</strong><br><span style="margin-left:20px;"><em>${p.author}</em></span></div>`;
   list.appendChild(li);
