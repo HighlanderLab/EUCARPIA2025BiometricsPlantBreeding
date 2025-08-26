@@ -1,4 +1,3 @@
-<img width="468" height="15" alt="image" src="https://github.com/user-attachments/assets/45453b4c-ad41-4418-98c9-1553c8f219ee" />
 # Scientific program
 There will be nine session as shown below. We envisage that each session will have one plenary and four contributed talks.
 
@@ -142,6 +141,30 @@ There will be nine session as shown below. We envisage that each session will ha
     border-radius: 6px;
     cursor: pointer;
   }
+/* Poster Modal styling */
+#posterModal {
+  display: none;
+  position: fixed;
+  z-index: 9999;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.4);
+  justify-content: center;
+  align-items: center;
+}
+#posterModalContent {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  max-width: 650px;
+  max-height: 80%;
+  overflow-y: auto;
+}
+#posterList li {
+  margin-bottom: 12px;
+}
 </style>
 
 <table>
@@ -375,11 +398,13 @@ There will be nine session as shown below. We envisage that each session will ha
   list.innerHTML = "";
   posters.forEach((p, i) => {
     let li = document.createElement("li");
+    li.style.marginBottom = "10px";
     li.innerHTML = `<div><strong>${p.title}</strong><br><em>${p.author}</em></div>`;
     list.appendChild(li);
   });
   document.getElementById('posterModal').style.display = 'flex';
 }
+
 function closePosterModal() {
     document.getElementById("modal").style.display = "none";
   }
