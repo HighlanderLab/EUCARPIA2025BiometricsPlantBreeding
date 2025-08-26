@@ -1,4 +1,4 @@
-<img width="468" height="29" alt="image" src="https://github.com/user-attachments/assets/3935cd11-2f75-4185-bad2-2f0679b036c6" /># Scientific program
+# Scientific program
 There will be nine session as shown below. We envisage that each session will have one plenary and four contributed talks.
 
 💡 Tip: Click on each session title to view the full session programme and details.
