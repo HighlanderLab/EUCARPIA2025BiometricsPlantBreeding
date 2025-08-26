@@ -74,6 +74,7 @@ There will be nine session as shown below. We envisage that each session will ha
             margin-bottom: 15px;
             border-radius: 8px;
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+            cursor: pointer;
             position: relative;
         }
         .poster_title {
@@ -154,17 +155,24 @@ There will be nine session as shown below. We envisage that each session will ha
   justify-content: center;
   align-items: center;
 }
-#posterModalContent {
-  background: white;
-  padding: 20px;
-  border-radius: 10px;
-  max-width: 650px;
-  max-height: 80%;
-  overflow-y: auto;
+#posterModalTitle {
+    font-size: 16px;
+    margin: 10px 0;
+    color: #B2B9E8;
 }
-#posterList li {
-  margin-bottom: 12px;
+#posterList {
+    font-size: 16px;
+    margin: 10px 0;
 }
+#modalButton span {
+    padding: 6px 12px;
+    margin-top: 10px;
+    background-color: #B2B9E8;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+  }
 </style>
 
 <table>
