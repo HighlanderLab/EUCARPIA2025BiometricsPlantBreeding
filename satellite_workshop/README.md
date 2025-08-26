@@ -6,7 +6,7 @@ We are going to hold a workshop on running simulation of selective breeding prog
 
 🏫 Place: The Roslin Institute, the Roslin auditorium
 
-To connect to the guest **Wi-Fi**, please see the official guide provided by the University of Edinburgh: [Connecting to Guest & Visitor Wi-Fi](https://information-services.ed.ac.uk/computing/desktop-personal/wifi-networking/guest-alumni-wifi-access).
+**Please bring a laptop and be ready to install R packages.** To connect to the guest **Wi-Fi**, please see the official guide provided by the University of Edinburgh: [Connecting to Guest & Visitor Wi-Fi](https://information-services.ed.ac.uk/computing/desktop-personal/wifi-networking/guest-alumni-wifi-access).
 
 ## Instructors
 * [Gregor Gorjanc](https://www.linkedin.com/in/gregorgorjanc/)
@@ -16,10 +16,8 @@ To connect to the guest **Wi-Fi**, please see the official guide provided by the
 
 
 ## Program
-<div style="width: 450px; padding: 10px; margin-left: 15px;">
-  <div style="flex: 1; padding: 10px; background: #ddeeff; border-left: 5px solid #2c4fa0; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); margin-left: 15px;">
 
-  <table style="margin-left:0px;">
+  <table style="width: 50%; margin: 0;border-collapse: collapse; text-align: center;">
   <tr>
     <td><strong>9:00-10:30</strong></td>
     <td>Lectures & Tutorials</td>
