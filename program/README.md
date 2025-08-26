@@ -1,4 +1,4 @@
-# Scientific program
+<img width="468" height="29" alt="image" src="https://github.com/user-attachments/assets/3935cd11-2f75-4185-bad2-2f0679b036c6" /># Scientific program
 There will be nine session as shown below. We envisage that each session will have one plenary and four contributed talks.
 
 💡 Tip: Click on each session title to view the full session programme and details.
@@ -162,7 +162,6 @@ There will be nine session as shown below. We envisage that each session will ha
 }
 #posterList {
     font-size: 16px;
-    margin: 10px 0;
 }
 #modalPosterButton span {
     padding: 6px 12px;
@@ -336,7 +335,27 @@ There will be nine session as shown below. We envisage that each session will ha
               {title:'Elucidating the genetic architecture of heterosis in Central European wheat', author:'Guoliang Li, Yong Jiang, Renate H. Schmidt, Jochen C. Reif'},
               {title:'Ideas and recommendations for optimal field experimental designs in artificial selection programs', author:'Alexandre Colmant, Fabiano Pita, Giovanny Covarrubias-Pazaran'},
               {title:'Using phenomic selection to predict hybrid values of parental lines in nurseries – Proof of concept on maize', author:'Renaud Rincent, Junita Solin, Jérémy Labrosse, Adam Serghini, Marc Labadie, Alexis Comar, Laurence Moreau'},
-              {title:'A crop growth R module for genotype x environment simulation',author:'Miguel Pérez-Enciso, Daniela Bustos-Korts, Chuang Zhao, Senthold Asseng, Fred van Eeuwijk'}])">
+              {title:'A crop growth R module for genotype x environment simulation',author:'Miguel Pérez-Enciso, Daniela Bustos-Korts, Chuang Zhao, Senthold Asseng, Fred van Eeuwijk'},
+              {title:'Genomic and Phenomic Prediction Performance for Tree Architecture and Fruit Quality Traits in Apple',author:'Nuri Güvencli, Hannah Robinson, Carlos Robles Zazueta, Kai Voss-Fels'},
+              {title:'Increasing nitrogen use efficiency of winter oilseed rape (Brassica napus L.) by improving genetics and cultivation system interaction',author:'Daniel Valle Torres, Sebastian Warnemünde, Nazanin Zamani-Noor, Milka Malenica, Christian Flachenecker, Amine Abbadi, Franz-Leopold Haupt, Jakob Streuber, Thomas Kreuter, Sven Weber, Benjamin Pommerrenig, Andreas Stahl'},
+              {title:'Quality over Quantity? The optimized allocation of quality samples of perennial ryegrass in Bavarian state cultivar trials',author:'Anne-Katrin Gorn, Jens Hartung, Stephan Hartmann, Hans-Peter Piepho'},
+              {title:'Breeding for Maize Varieties with Reduced Carbon Footprints',author:'K. R. Grant, C. M. Richardson, T. Olivera,  L. Lara, C. Adams, M. Post, T. Byrne, P. Amer, W. Bourdoncle, R. Bouchon, L. Busswinkel, S. Larmer, B. Gardunia'},
+        {title:'Leveraging Disentangled Representations to Predict Unobserved Genotype-Environment Combinations in Phenomic Selection',author:'Hugo Gangloff, Do Than Dat Le, Renaud Rincent, Julie Aubert, Tristan Mary-Huard'},
+              {title:'Disentangling the genetic response to seasonal and environmental drivers',author:'Katharine F. Preedy, Brezo Mateos, Robert D. Hancock, Julie Graham'},
+              {title:'Introducing the 2NP matrix in genomic prediction: A novel genomic matrix that merges the strengths of classical and machine learning methods in plant breeding',author:'Bright Enogieru Osatohanmwen, Dr. Indalécio Cunha Vieira Júnior, Prof. Dr. A. Reza Sharifi, Prof. Dr. Timothy Beissinger'},
+              {title:'Sparse testcrossing for early-stage genomic prediction of general combining ability to increase genetic gain in maize hybrid breeding programs',author:'David O. González-Diéguez, Gary N. Atlin, Yoseph Beyene, Dagne Wegary, Dorcus C. Gemenet, Christian R. Werner'},
+        {title:'Harnessing Genetic Diversity from the Wider Cultivated Gene Pool to Advance Trait Analysis and Breeding in Potato',author:'Karen McLean, Mads Sønderkær, Glenn Bryan, Sanjeev Kumar Sharma'},
+              {title:'Study of the impact of genome editing in a perennial species breeding program through simulations',author:'Xabi Cazenave, Jérôme Bartholomé, Mathieu Tiret, Alain Charcosset, Laurence Moreau, Leopoldo Sanchez'},
+              {title:'Robustness Evaluation of Machine Learning Models in Genomic Prediction',author:'Vanda M. Lourenço, Hans-Peter Piepho & Joseph O. Ogutu'},
+              {title:'',author:''},
+        {title:'',author:''},
+              {title:'',author:''},
+              {title:'',author:''},
+              {title:'',author:''},
+        {title:'',author:''},
+              {title:'',author:''},
+              {title:'',author:''},
+              {title:'',author:''}])">
           <div class="poster_item">Drinks Reception & Poster Session 1</div>
         </div>
         </td>
@@ -408,7 +427,7 @@ There will be nine session as shown below. We envisage that each session will ha
   posters.forEach((p, i) => {
     let li = document.createElement("li");
     li.style.listStyleType = "none";
-    li.innerHTML = `<div><strong>${p.title}</strong><br><em>${p.author}</em></div>`;
+    li.innerHTML = `<div><strong>${p.title}</strong><br><em>  ${p.author}</em></div>`;
     list.appendChild(li);
   });
   document.getElementById('posterModal').style.display = 'flex';
