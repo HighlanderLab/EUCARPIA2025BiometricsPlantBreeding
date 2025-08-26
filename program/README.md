@@ -420,9 +420,8 @@ There will be nine session as shown below. We envisage that each session will ha
   function closeModal() {
     document.getElementById("modal").style.display = "none";
   }
-  function openPosterModal(title, posters，start=1) {
+  function openPosterModal(title, posters，start = 1) {
   document.getElementById('posterModalTitle').innerText = title;
-  let list = document.getElementById('posterList');
   posters.forEach((p, i) => {
     let li = document.createElement("li");
     li.style.listStyleType = "none";
