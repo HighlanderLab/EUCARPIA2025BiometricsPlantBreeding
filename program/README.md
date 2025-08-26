@@ -164,7 +164,7 @@ There will be nine session as shown below. We envisage that each session will ha
     font-size: 16px;
     margin: 10px 0;
 }
-#modalButton span {
+#modalPosterButton span {
     padding: 6px 12px;
     margin-top: 10px;
     background-color: #B2B9E8;
@@ -372,9 +372,11 @@ There will be nine session as shown below. We envisage that each session will ha
   <div style="background:white; padding:20px; border-radius:10px; max-width:650px; max-height:80%; overflow-y:auto;">
     <h2 id="posterModalTitle">Poster Session</h2>
     <ol id="posterList" style="font-size:16px; line-height:1.6;"></ol>
-    <div>
+    <div id="modalPosterButton">
       <span onclick="closePosterModal()" 
-        style="display:inline-block; margin-top:10px; padding:6px 12px; background:#B2B9E8; color:white; border-radius:6px; cursor:pointer;">
+        style="display:inline-block; margin-top:10px; padding:6px 12px; background:#ccc; color:white; border-radius:4px; cursor:pointer;"
+            onmouseover="this.style.background='#999'; this.style.color='white';"
+            onmouseout="this.style.background='#B2B9E8'; this.style.color='white';">
         Close
       </span>
     </div>
@@ -402,8 +404,10 @@ There will be nine session as shown below. We envisage that each session will ha
   function openPosterModal(title, posters) {
   document.getElementById('posterModalTitle').innerText = title;
   let list = document.getElementById('posterList');
+  
   posters.forEach((p, i) => {
     let li = document.createElement("li");
+    li.style.listStyleType = "none";
     li.innerHTML = `<div><strong>${p.title}</strong><br><em>${p.author}</em></div>`;
     list.appendChild(li);
   });
@@ -413,6 +417,16 @@ There will be nine session as shown below. We envisage that each session will ha
 function closePosterModal() {
     document.getElementById("posterModal").style.display = "none";
   }
-  </script>
+window.onclick = function(event) {
+    const modal = document.getElementById('modal');
+    const posterModal = document.getElementById('posterModal');
+    if (event.target == modal) {
+        modal.style.display = "none";
+    }
+    if (event.target == posterModal) {
+        posterModal.style.display = "none";
+    }
+}
+</script>
 
 
