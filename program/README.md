@@ -355,7 +355,7 @@ There will be nine session as shown below. We envisage that each session will ha
         {title:'',author:''},
               {title:'',author:''},
               {title:'',author:''},
-              {title:'',author:''}], 1)">
+              {title:'',author:''}], '1')">
           <div class="poster_item">Drinks Reception & Poster Session 1</div>
         </div>
         </td>
