@@ -48,8 +48,7 @@ We are going to hold a workshop on running simulation of selective breeding prog
   </tr>
   
   </table>
-  </div>
-</div>
+
 More details soon!
 
 ## Food
