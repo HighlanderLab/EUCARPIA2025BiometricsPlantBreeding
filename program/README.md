@@ -337,7 +337,19 @@ There will be nine session as shown below. We envisage that each session will ha
     </div>
   </div>
 </div>
-
+<!-- Poster Modal -->
+<div id="posterModal" style="display:none; position:fixed; z-index:9999; left:60px; top:0; width:100%; height:100%; background:rgba(0,0,0,0.4); justify-content:center; align-items:center;">
+  <div style="background:white; padding:20px; border-radius:10px; max-width:650px; max-height:80%; overflow-y:auto;">
+    <h2 id="posterModalTitle">Poster Session</h2>
+    <ol id="posterList" style="font-size:16px; line-height:1.6;"></ol>
+    <div>
+      <span onclick="closePosterModal()" 
+        style="display:inline-block; margin-top:10px; padding:6px 12px; background:#4a148c; color:white; border-radius:6px; cursor:pointer;">
+        Close
+      </span>
+    </div>
+  </div>
+</div>
 <script>
   function openModal(title, subtitle0, details0,subtitle1, details1,subtitle2, details2,subtitle3, details3,subtitle4, details4) {
     document.getElementById('modalTitle').innerText = title;
@@ -357,22 +369,7 @@ There will be nine session as shown below. We envisage that each session will ha
   function closeModal() {
     document.getElementById("modal").style.display = "none";
   }
-</script>
-<!-- Poster Modal -->
-<div id="posterModal" style="display:none; position:fixed; z-index:9999; left:60px; top:0; width:100%; height:100%; background:rgba(0,0,0,0.4); justify-content:center; align-items:center;">
-  <div style="background:white; padding:20px; border-radius:10px; max-width:650px; max-height:80%; overflow-y:auto;">
-    <h2 id="posterModalTitle">Poster Session</h2>
-    <ol id="posterList" style="font-size:16px; line-height:1.6;"></ol>
-    <div>
-      <span onclick="closePosterModal()" 
-        style="display:inline-block; margin-top:10px; padding:6px 12px; background:#4a148c; color:white; border-radius:6px; cursor:pointer;">
-        Close
-      </span>
-    </div>
-  </div>
-</div>
-<script>
-function openPosterModal(title, posters) {
+  function openPosterModal(title, posters) {
   document.getElementById('posterModalTitle').innerText = title;
   let list = document.getElementById('posterList');
   list.innerHTML = "";
@@ -386,4 +383,6 @@ function openPosterModal(title, posters) {
 function closePosterModal() {
     document.getElementById("modal").style.display = "none";
   }
-</script>
+  </script>
+
+
