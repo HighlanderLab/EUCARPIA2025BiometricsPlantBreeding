@@ -1,6 +1,6 @@
 # Satellite workshop 
 
-We are going to hold a workshop on using the **[AlphaSimR](https://cran.r-project.org/package=AlphaSimR)** & **[FieldSimR](https://cran.r-project.org/package=FieldSimR)** R packages.
+We are going to hold a workshop on running simulation of selective breeding programs using the **[AlphaSimR](https://cran.r-project.org/package=AlphaSimR)** & **[FieldSimR](https://cran.r-project.org/package=FieldSimR)** R packages.
 
 ✅ Time: 15-16th September 2025 
 
@@ -13,7 +13,51 @@ To connect to the guest **Wi-Fi**, please see the official guide provided by the
 * [Daniel Tolhurst](https://www.linkedin.com/in/daniel-tolhurst-8abb5685/)
 * [Chris Gaynor](https://www.linkedin.com/in/chris-gaynor-136550249/)
 * [Dominic Waters](https://www.linkedin.com/in/dominic-waters-a32800125/)
-    
+
+
+## Program
+<div style="width: 450px; padding: 10px; margin-left: 15px;">
+  <div style="flex: 1; padding: 10px; background: #ddeeff; border-left: 5px solid #2c4fa0; box-shadow: 2px 2px 10px rgba(0,0,0,0.1); margin-left: 15px;">
+
+  <table style="margin-left:0px;">
+  <tr>
+    <td><strong>9:00-10:30</strong></td>
+    <td>Lectures & Tutorials</td>
+  </tr>
+  <tr>
+    <td><strong>10:30-11:00</strong></td>
+    <td>Coffee/Tea</td>
+  </tr>
+  <tr>
+    <td><strong>11:00-12:30</strong></td>
+    <td>Practicals</td>
+  </tr>
+  <tr>
+    <td><strong>12:30-13:30</strong></td>
+    <td>Lunch</td>
+  </tr>
+  <tr>
+    <td><strong>13:30-15:00</strong></td>
+    <td>Lectures/Tutorials/Practicals</td>
+  </tr>
+  <tr>
+    <td><strong>15:30-16:00</strong></td>
+    <td>Coffee/Tea</td>
+  </tr>
+  <tr>
+    <td><strong>16:00-17:00</strong></td>
+    <td>Practicals</td>
+  </tr>
+  
+  </table>
+  </div>
+</div>
+More details soon!
+
+## Food
+Food and drinks are provided (during morning break, lunch, and afternoon break). In addition, there is our cafe "Dolly's", in the building, open 8:30-15:30. Filtered water is available at any time at the water dispenser in Dolly's.
+
+
 ## About the venue
 The [Easter Bush Campus](https://www.ed.ac.uk/roslin/about/our-campus) of The University of Edinburgh ([Goolge maps](https://maps.app.goo.gl/L636reGtE8aLS9XZ7)) hosts The Roslin Institute, The Royal (Dick) School of Veterinary Medicine, The Global Academy of Agriculture and Food Systems, and a range of startups and established businesses.
 
@@ -32,15 +76,15 @@ The Easter Bush campus is directly served by several local bus routes. To plan y
   </thead>
   <tbody>
   <tr>
-    <td>Bruntsfield and Morningside</td>
+    <td>Edinburgh: Bruntsfield and Morningside</td>
     <td>15</td>
   </tr>
   <tr>
-    <td>Princes Street, Waverley Station, and Newington</td>
+    <td>Edinburgh: Princes Street, Waverley Station, and Newington</td>
     <td>37 (Buses with destination "37 Penicuik Deanburn" do not serve the campus)</td>
   </tr>
   <tr>
-    <td>West End, Tollcross, and Central Area</td>
+    <td>Edinburgh: West End, Tollcross, and Central Area</td>
     <td>47B</td>
   </tr>
   <tr>
