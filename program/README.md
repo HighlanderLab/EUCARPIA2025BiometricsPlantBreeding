@@ -355,7 +355,7 @@ There will be nine session as shown below. We envisage that each session will ha
         {title:'',author:''},
               {title:'',author:''},
               {title:'',author:''},
-              {title:'',author:''}]，1)">
+              {title:'',author:''}], 1)">
           <div class="poster_item">Drinks Reception & Poster Session 1</div>
         </div>
         </td>
@@ -423,12 +423,10 @@ There will be nine session as shown below. We envisage that each session will ha
   function openPosterModal(title, posters，start=1) {
   document.getElementById('posterModalTitle').innerText = title;
   let list = document.getElementById('posterList');
-  
   posters.forEach((p, i) => {
     let li = document.createElement("li");
     li.style.listStyleType = "none";
     li.innerHTML = `<div><strong>${i+start}. ${p.title}</strong><br><span style="margin-left:20px;"><em>${p.author}</em></span></div>`;
-    list.appendChild(li);
   });
   document.getElementById('posterModal').style.display = 'flex';
 }
