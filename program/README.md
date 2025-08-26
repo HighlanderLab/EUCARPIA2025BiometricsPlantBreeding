@@ -328,8 +328,7 @@ There will be nine session as shown below. We envisage that each session will ha
               {title:'Elucidating the genetic architecture of heterosis in Central European wheat', author:'Guoliang Li, Yong Jiang, Renate H. Schmidt, Jochen C. Reif'},
               {title:'Ideas and recommendations for optimal field experimental designs in artificial selection programs', author:'Alexandre Colmant, Fabiano Pita, Giovanny Covarrubias-Pazaran'},
               {title:'Using phenomic selection to predict hybrid values of parental lines in nurseries – Proof of concept on maize', author:'Renaud Rincent, Junita Solin, Jérémy Labrosse, Adam Serghini, Marc Labadie, Alexis Comar, Laurence Moreau'},
-              {title:'A crop growth R module for genotype x environment simulation',author:'Miguel Pérez-Enciso, Daniela Bustos-Korts, Chuang Zhao, Senthold Asseng, Fred van Eeuwijk'}]),
-              ">
+              {title:'A crop growth R module for genotype x environment simulation',author:'Miguel Pérez-Enciso, Daniela Bustos-Korts, Chuang Zhao, Senthold Asseng, Fred van Eeuwijk'}])">
           <div class="poster_item">Drinks Reception & Poster Session 1</div>
         </div>
         </td>
