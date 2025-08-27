@@ -302,7 +302,7 @@ There will be nine session as shown below. We envisage that each session will ha
         <tr><td>15:30-16:00</td>
               <td class="break">Afternoon Tea (30 mins)</td>
               <td class="break" rowspan="3">        
-              <div class="poster_container" onclick="openPosterModal('Poster Session 1', [
+              <div class="poster_container" onclick="openPosterModal('Poster Session 2', [
                     {title:'',author:''}
               ])">
                 <div class="poster_item">Farewell Reception & Poster Session 2</div>
