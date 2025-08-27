@@ -481,7 +481,7 @@ There will be nine session as shown below. We envisage that each session will ha
   posters.forEach((p, i) => {
   let li = document.createElement("li");
   li.style.listStyleType = "none";
-  li.innerHTML = `<div>${i+start}. <strong>${p.author}</strong>: ${p.title}</div>`;
+  li.innerHTML = `<div style="text-indent:-20px;">${i+start}. <strong>${p.author}</strong>: ${p.title}</div>`;
   list.appendChild(li);
   });
   document.getElementById('posterModal').style.display = 'flex';
