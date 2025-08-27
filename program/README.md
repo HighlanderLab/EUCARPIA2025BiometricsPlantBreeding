@@ -302,7 +302,9 @@ There will be nine session as shown below. We envisage that each session will ha
         <tr><td>15:30-16:00</td>
               <td class="break">Afternoon Tea (30 mins)</td>
               <td class="break" rowspan="3">        
-              <div class="poster_container">
+              <div class="poster_container" onclick="openPosterModal('Poster Session 1', [
+                    {title:'',author:''}
+              ])">
                 <div class="poster_item">Farewell Reception & Poster Session 2</div>
               </div>
               </td>
@@ -348,15 +350,25 @@ There will be nine session as shown below. We envisage that each session will ha
               {title:'Harnessing Genetic Diversity from the Wider Cultivated Gene Pool to Advance Trait Analysis and Breeding in Potato',author:'Karen McLean, Mads Sønderkær, Glenn Bryan, Sanjeev Kumar Sharma'},
               {title:'Study of the impact of genome editing in a perennial species breeding program through simulations',author:'Xabi Cazenave, Jérôme Bartholomé, Mathieu Tiret, Alain Charcosset, Laurence Moreau, Leopoldo Sanchez'},
               {title:'Robustness Evaluation of Machine Learning Models in Genomic Prediction',author:'Vanda M. Lourenço, Hans-Peter Piepho & Joseph O. Ogutu'},
-              {title:'',author:''},
-              {title:'',author:''},
-              {title:'',author:''},
-              {title:'',author:''},
-              {title:'',author:''},
-              {title:'',author:''},
-              {title:'',author:''},
-              {title:'',author:''},
-              {title:'',author:''}
+              {title:'Types of Plant Breeding Paper',author:'Rex Bernardo, University of Minnesota'},
+              {title:'Co-Evolutionary Analysis for Mining Functional Genes from Plant Genomes',author:'Shang Gao and Huihui Li'},
+              {title:'Identifying Stable and High-Yielding Oil Palm Genotypes in a Long-Term Single-Site Breeding Trial',author:'Mohd Ibnur Syawal Zakaria, Syafeqa Abdul Hamid and Sheh May Tam'},
+              {title:'Barley Breeding Under Long Days: Reducing Speed Breeding Energy Use and Unlocking Flowering Plasticity for Climate Resilience',author:'Nicola Rossi, Rajiv Sharma, Wayne Powell'},
+              {title:'An interpretable machine learning-based alternative to genome-wide association studies (GWAS), and its application in a wild population',author:'Gard W. Gravdal, Henrik Jensen, Hamish A. Burnett, Stefanie Muff1'},
+              {title:'The Impact of Increased Recombination on Breeding Programs: Insights from Simulations',author:'Boyny Zsa Zsa, Lester Nicholas, Massel Karen, Powell Owen, Snowdon Rod, Weber Sven'},
+              {title:'Permutation-based GWAS in raspberry',author:'Philip Greenspoon, Julie Graham, Brezo Mateos, Susan McCallum, Valeria Montano, Manon Verdier'},
+              {title:'Building Foundations for 'Ensembl Plant Populations'',author:'Bedford, J. A., Love, B., Wright, T.I.C., Falola, O., Connell, J., Flint, B., Harrison, P., Saraf, S., Alvarez-Jarreta, J., Giorgetti, S., Lodha, D., Percival-Alwyn, L., Naamati, G., Cockram, J. and Dyer, S.'},
+              {title:'Predicting Novel Genotypes in Untested Environments Using Large Multi-Environment Datasets Across Species',author:'Vincent Garin, Simon Rio, Julien Frouin, Alice Boizet, Marion Buffard, Stéphanie Sidibe-Bocs, Carlos Viquez-Zamora'},
+              {title:'Strategic Crossing to improve genetic potential in soybean breeding',author:'Kengo Sakurai, Yusuke Toda, Minoru Inamori, Kosuke Hamazaki, Hisashi Tsujimoto, Akito Kaga, Hiroyoshi Iwata'},
+              {title:'Genome-wide association study of agronomical and nutritional traits in oat using a recurrent selection population with Avena sterilis introgressions',author:'Kai Ilves, Min Lin, Espen Sørensen, Therese Birkeland Fossøy, Hilde Halland, Sigridur Dalmannsdottir, Hrannar Smari Hilmarsson, Lidija Bitz, Oliver Bitz, Hanna Haikka, Pernilla Vallenback, Fiona Doohan, Cathal McCabe, Atikur Rahman, Lucia Gutierrez, Juho Hautsalo, Morten Lillemo'},
+              {title:'Genotype-by-Environment interactions in Norwegian Barley: insights from a decade of multi-location trials',author:'Min Lin, Shirin Mohammadi, Nora Røhnebæk Aasen, Silius Mortensønn Vandeskog, Alex Lenkoski, Maria Thorkildsen, Morten Lillemo'},
+              {title:'IMPROVING GENOMIC PREDICTION IN WHEAT WITH RANDOM REGRESSION MODELS  FOR ENVIRONMENTAL COVARIATES',author:'Rishap Dhakal, Guillermo Sniadower, Paula Silva, Betina Lado, Pablo Sandro, Inés Rebollo, Martin Quincke, Pablo González Barrios, Lucia Gutiérrez'},
+              {title:'QTL Mapping and Candidate Genes Associated with Common Bean Resistance to Root-Knot Nematode (Meloidogyne incognita)',author:'Bruna Marques Moreno, Líllian Beatriz Januario Bibiano, Talissa Oliveira Floriani Zimermman Souza, Antonio Augusto Franco Garcia, Guilherme da Silva Pereira e Maria Lucia Carneiro Vieira'},
+              {title:'Implementation of genomic selection in Miscanthus sinensis for ecosystem services',author:'Manuel Derrien, Séverine Monnot, Maryse Hulmel'},
+              {title:'Maximizing G×E Value in Forestry Breeding Using a Three-Stage Approach',author:'Mason Chizk, John Moore, Christine Te Riini, Yue Lin, Jude Sise, Bruno Santos'},
+              {title:'From Fields to Fjords: A framework for targeting resilience by simulating longitudinal growth traits in plants and aquaculture',author:'Duncan Henderson, Smaragda Tsairidou, Dominic Waters, Daniel Tolhurst'},
+              {title:'Genotype and Phenotype Encryption Optimised for Federated Quantitative Genetics',author:'Arun Isaac, Hao Cheng, Richard Mott'},
+              {title:'Comparing uni-modal vs multi-modal ML modeling of GxE interactions on hybrid maize data',author:'Iñigo Azqueta, Claudia Serrano Colomé, and Finn Gaida'},
         ])">
           <div class="poster_item">Drinks Reception & Poster Session 1</div>
         </div>
