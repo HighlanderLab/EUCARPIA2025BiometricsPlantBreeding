@@ -18,6 +18,7 @@ National Museum of Scotland with exclusive tour of the Egyptian Exhibition
 
 There will be something to cater for everyone!
 We hope the sun will shine, but it's always wise to bring a raincoat in Scotland, just in case!
+
 **Notice:**
 We have now circulated a google form to take preferences via email. Please fill this out by <strong>Thursday 4th September</strong>.  Note that the social activities are included in your registration fees (no extra costs required). You will get a packed lunch from the conference venue at 12:50pm and head out to one of the above activities. This will be followed by a very Scottish-filled evening at the conference dinner at from 6pm.
 
