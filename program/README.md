@@ -336,7 +336,7 @@ There will be nine session as shown below. We envisage that each session will ha
                     {title:'Can We Teach Machines to Select Like a Plant Breeder? A Recommender System Approach to Support Early Generation Selection Decisions Based on Breeders\’ Preferences',author:'Michel, Sebastian\; Löschenberger, Franziska\; Ametz, Christian\; Bistrich, Herbert\; Bürstmayr, Hermann'},
                     {title:'Development and characterisation of Wheat Near Isogenic Lines (NILs) for metribuzin resistance',author:'Dr Rudra Bhattarai, Dr Hui Liu, Professor Kadambot Siddique, Professor Guijun Yan'},
                     {title:'A framework for targeting resilience by simulating longitudinal growth traits in plants and aquaculture',author:'Duncan Henderson, Smaragda Tsairidou, Dominic Waters, Daniel Tolhurst'},
-                    {title:'Quantifying the Drivers of Genetic Change in Plant Breeding',author:'T. P. Oliveira, D. J. Tolhurst, B. Poupard, and G. Gorjanc'},
+                    {title:'Quantifying the Drivers of Genetic Change in Plant Breeding',author:'T. P. Oliveira, D. J. Tolhurst, B. Poupard, and G. Gorjanc'}
               ])">
                 <div class="poster_item">Farewell Reception & Poster Session 2</div>
               </div>
