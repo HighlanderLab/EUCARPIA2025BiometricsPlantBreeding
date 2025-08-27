@@ -303,7 +303,7 @@ There will be nine session as shown below. We envisage that each session will ha
               <td class="break">Afternoon Tea (30 mins)</td>
               <td class="break" rowspan="3">        
               <div class="poster_container" onclick="openPosterModal('Poster Session 2', [
-                    {title:'barley’s genetic control for agronomic and metabolic adaptation to reduced nitrogen fertilizer inputs', author:'George Terry Epaku'},
+                    {title:'For greener whisky: barley’s genetic control for agronomic and metabolic adaptation to reduced nitrogen fertilizer inputs', author:'George Terry Epaku'},
                     {title:'Rare Genetic Variation Underlies Extremely Low Trigonelline Levels in Maize Grain',author:'Michael Gore'},
                     {title:'TAdvancing Genomic Selection in Grapevine: Development and Analysis of a Training Population',author:'Valeria De Rosa'},
                     {title:'Uncovering Genomic Regions Controlling Root Quality Traits in Cassava implementing various GWAS models',author:'Diana Carolina Solarte Certuche'},
@@ -320,8 +320,8 @@ There will be nine session as shown below. We envisage that each session will ha
                     {title:'Haplotype stacking to improve stability of stripe rust resistance in wheat',author:'Jingyang Tong'},
                     {title:'Harnessing Plant Genetic Resources without compromising local adaptation in hybrid and inbred wheat breeding programs',author:'Maegan Green'},
                     {title:'Dissecting Genotype × Environment Interactions for Cold Tolerance Traits in Sorghum Using a Haplotype-Based Framework',author:'Mohamed Mosalam'},
-                    {title:'Leveraging a broad gradient of plant-plant interactions to efficiently breed for cereale-legume mixtures',author:'Amanda Karlström'},
-                    {title:'Harnessing Heterosis in Faba Bean: Breeding strategy optimisation through stochastic simulations',author:'Yan-Cheng Lin'},
+                    {title:'Leveraging a broad gradient of plant-plant interactions to efficiently breed for cereale-legume mixtures',author:'Jemay Salomon'},
+                    {title:'Harnessing Heterosis in Faba Bean: Breeding strategy optimisation through stochastic simulations',author:'Amanda Karlström'},
                     {title:'Enhancing QTL Detection and Genomic Prediction for Stay-Green in Maize Using UAV-Based Multi-Trait Analysis',author:'Yan-Cheng Lin'},
                     {title:'Discovering Optimal Genotype–Environment combinations in Rice Through a Bayesian Optimization-like Random Forests',author:'Hideto Mochizuki'},
                     {title:'Identification of maize heterotic group-specific haplotypes and impact of residual inbreeding on elite hybrids grain yield',author:'Romain Kadoumi'},
@@ -369,7 +369,6 @@ There will be nine session as shown below. We envisage that each session will ha
               {title:'Elucidating the genetic architecture of heterosis in Central European wheat', author:'Guoliang Li'},
               {title:'Ideas and recommendations for optimal field experimental designs in artificial selection programs', author:'Giovanny Covarrubias-Pazaran'},
               {title:'Using phenomic selection to predict hybrid values of parental lines in nurseries – Proof of concept on maize', author:'Renaud Rincent'},
-              {title:'A crop growth R module for genotype x environment simulation',author:'Miguel Pérez-Enciso'},
               {title:'Genomic and Phenomic Prediction Performance for Tree Architecture and Fruit Quality Traits in Apple',author:'Nuri Güvencli'},
               {title:'Increasing nitrogen use efficiency of winter oilseed rape (Brassica napus L.) by improving genetics and cultivation system interaction',author:'Daniel Valle Torres'},
               {title:'Quality over Quantity? The optimized allocation of quality samples of perennial ryegrass in Bavarian state cultivar trials',author:'Anne-Katrin Gorn'},
