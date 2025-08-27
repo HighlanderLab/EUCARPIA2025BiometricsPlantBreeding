@@ -441,7 +441,7 @@ There will be nine session as shown below. We envisage that each session will ha
   if (title == "Poster Session 1") {
         start = 1;
     } else {
-        start = 37;
+        start = 38;
     }
   let list = document.getElementById('posterList');
   list.innerHTML = "";
