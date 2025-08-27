@@ -1,4 +1,3 @@
-
 # Scientific program
 There will be nine session as shown below. We envisage that each session will have one plenary and four contributed talks.
 
@@ -75,6 +74,7 @@ There will be nine session as shown below. We envisage that each session will ha
             margin-bottom: 15px;
             border-radius: 8px;
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+            cursor: pointer;
             position: relative;
         }
         .poster_title {
@@ -137,6 +137,37 @@ There will be nine session as shown below. We envisage that each session will ha
     padding: 6px 12px;
     margin-top: 10px;
     background-color: #4a148c;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+  }
+/* Poster Modal styling */
+#posterModal {
+  display: none;
+  position: fixed;
+  z-index: 9999;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.4);
+  justify-content: center;
+  align-items: center;
+}
+#posterModalTitle {
+    margin-top: 0;
+    font-size: 20px;
+    color: #737CBB;
+}
+#posterList {
+      font-size: 16px;
+      margin-top: 0;
+}
+#modalPosterButton span {
+    padding: 6px 12px;
+    margin-top: 10px;
+    background-color: #B2B9E8;
     color: white;
     border: none;
     border-radius: 6px;
@@ -271,7 +302,40 @@ There will be nine session as shown below. We envisage that each session will ha
         <tr><td>15:30-16:00</td>
               <td class="break">Afternoon Tea (30 mins)</td>
               <td class="break" rowspan="3">        
-              <div class="poster_container">
+              <div class="poster_container" onclick="openPosterModal('Poster Session 2', [
+                    {title:'For greener whisky: Barley’s genetic control for agronomic and metabolic adaptation to reduced nitrogen fertilizer inputs', author:'George Terry Epaku'},
+                    {title:'Rare genetic variation underlies extremely low trigonelline levels in maize grain',author:'Michael Gore'},
+                    {title:'Advancing genomic selection in grapevine: Development and analysis of a training population',author:'Valeria De Rosa'},
+                    {title:'Uncovering genomic regions controlling root quality traits in cassava implementing various GWAS models',author:'Diana Carolina Solarte Certuche'},
+                    {title:'Genetic analysis of a short-term selection experiment with Saccharina latissima: lessons learned',author:'Signe Bråtelund'},
+                    {title:'Combining ability of banana triploid hybrid progenitors and genomic prediction for agro-morphological traits',author:'Lucile Toniutti'},
+                    {title:'Combining ecophysiological and genetic modeling to identify new breeding targets for water stress tolerance in tomato',author:'Fabien Tirado'},
+                    {title:'First application of genomic prediction in quinoa',author:'Clara Stanschewski'},
+                    {title:'Neodomestication of a halophytic perennial grain (Distichlis palmeri)',author:'Izamar Olivas Orduna'},
+                    {title:'Genome-wide insights into wheat flour properties and rheology: Genetic markers and candidate genes for improving end-use quality',author:'Juan Menor de Gaspar'},
+                    {title:'Quantifying protein levels in cereal–legume intercrops using near-infrared spectroscopy',author:'Reena Dubey'},
+                    {title:'Genetic evaluation and simulation of grain yield in Australia Southern faba bean breeding program',author:'Huanhuan Zhao'},
+                    {title:'Dissecting the genetic basis of cold tolerance in potato through QTL mapping and functional analysis of CBF1',author:'Beiyu Tu'},
+                    {title:'flexFitR and exploreHTP: Open-source software to enable nonlinear modeling of plant growth from remotely-sensed imagery',author:'Johan Steven Aparicio'},
+                    {title:'Haplotype stacking to improve stability of stripe rust resistance in wheat',author:'Jingyang Tong'},
+                    {title:'Harnessing plant genetic resources without compromising local adaptation in hybrid and inbred wheat breeding programs',author:'Maegan Green'},
+                    {title:'Dissecting genotype × environment interactions for cold tolerance traits in sorghum using a haplotype-based framework',author:'Mohamed Mosalam'},
+                    {title:'Leveraging a broad gradient of plant-plant interactions to efficiently breed for cereale-legume mixtures',author:'Jemay Salomon'},
+                    {title:'Harnessing heterosis in faba bean: Breeding strategy optimisation through stochastic simulations',author:'Amanda Karlström'},
+                    {title:'Enhancing QTL detection and genomic prediction for stay-green in maize using UAV-Based multi-trait analysis',author:'Yan-Cheng Lin'},
+                    {title:'Discovering optimal genotype–environment combinations in rice through a Bayesian optimization-like random forests',author:'Hideto Mochizuki'},
+                    {title:'Identification of maize heterotic group-specific haplotypes and impact of residual inbreeding on elite hybrids grain yield',author:'Romain Kadoumi'},
+                    {title:'Joint analysis of monovarietal and mixed stand performances to study the genetic architecture of indirect genetic effects in wheat cutltivar mixtures',author:'Maxence Remerand'},
+                    {title:'EasyGeSe – A resource for benchmarking genomic prediction methods',author:'Daniel Ariza-Suarez'},
+                    {title:'Can we teach machines to select like a plant breeder? A recommender system approach to support early-generation selection decisions based on breeders\’ preferences',author:'Sebastian Michel'},
+                    {title:'Quantifying the drivers of genetic change in plant breeding',author:'Thiago de Paula Oliveira'},
+                    {title:'CrossingTools: An R package for mating optimization in plant breeding',author:'Sven Weber'},
+                    {title:'AI-based predictions in canola',author:'Iulian Gabur'},
+                    {title:'Identification of QTL involved in heavy metal and trace element accumulation in durum wheat',author:'Alexia Crézé'},
+                    {title:'Insufficient memory: a practical problem associated with the genomic relationship matrix and estimation of GxE effects for grain yield across multiple years and sites',author:'Wallace Cowling'},
+                    {title:'Integration of environmental predictors and genomic selection into a pipeline for global potato variety recommendation',author:'Marco Peixoto'},
+                    {title:'PredictPro: An Integrated analytics pipeline for multi-omics machine learning and AI-based prediction in plant breeding',author:'Sikiru Adeniyi Atanda'},
+              ])">
                 <div class="poster_item">Farewell Reception & Poster Session 2</div>
               </div>
               </td>
@@ -298,7 +362,44 @@ There will be nine session as shown below. We envisage that each session will ha
         </tr>
         <tr><td>17:40-</td>
         <td class="break">
-        <div class="poster_container">
+        <div class="poster_container" onclick="openPosterModal('Poster Session 1', [
+              {title:'Disentangling the genetic and environmental factors influencing GxE for barley yield', author:'Stephanie Brunner'},
+              {title:'AI-Driven Analysis of big biological data to decode genotype-environment interaction', author:'Huihui Li'},
+              {title:'From light to biomass: using dynamic photosynthesis data to improve biomass predictions', author:'Junita Solin'},
+              {title:'Elucidating the genetic architecture of heterosis in Central European wheat', author:'Guoliang Li'},
+              {title:'Ideas and recommendations for optimal field experimental designs in artificial selection programs', author:'Giovanny Covarrubias-Pazaran'},
+              {title:'Using phenomic selection to predict hybrid values of parental lines in nurseries – Proof of concept on maize', author:'Renaud Rincent'},
+              {title:'Genomic and phenomic prediction performance for tree architecture and fruit quality traits in apple',author:'Nuri Güvencli'},
+              {title:'Increasing nitrogen use efficiency of winter oilseed rape (Brassica napus L.) by improving genetics and cultivation system interaction',author:'Daniel Valle Torres'},
+              {title:'Quality over quantity? The optimized allocation of quality samples of perennial ryegrass in Bavarian state cultivar trials',author:'Anne-Katrin Gorn'},
+              {title:'Breeding for maize varieties with reduced carbon footprints',author:'Kathryn Grant'},
+              {title:'Leveraging disentangled representations to predict unobserved genotype-environment combinations in phenomic selection',author:'Tristan Mary-Huard'},
+              {title:'Disentangling the genetic response to seasonal and environmental drivers',author:'Katharine Preedy'},
+              {title:'Introducing the 2NP matrix in genomic prediction: A novel genomic matrix that merges the strengths of classical and machine learning methods in plant breeding',author:'Bright Enogieru Osatohanmwen'},
+              {title:'Sparse testcrossing for early-stage genomic prediction of general combining ability to increase genetic gain in maize hybrid breeding programs',author:'David González-Diéguez'},
+              {title:'Harnessing genetic diversity from the wider cultivated gene pool to advance trait analysis and breeding in potato',author:'Sanjeev Kumar Sharma'},
+              {title:'Study of the impact of genome editing in a perennial species breeding program through simulations',author:'Xabi Cazenave'},
+              {title:'Robustness evaluation of machine learning models in genomic prediction',author:'Vanda Lourenço'},
+              {title:'Types of plant breeding paper',author:'Rex Bernardo'},
+              {title:'Co-evolutionary analysis for mining functional genes from plant genomes',author:'Shang Gao'},
+              {title:'Identifying stable and high-yielding oil palm genotypes in a long-term single-site breeding trial',author:'Mohd Ibnur Syawal Zakaria'},
+              {title:'Barley breeding under long days: Reducing speed breeding energy use and unlocking flowering plasticity for climate resilience',author:'Nicola Rossi'},
+              {title:'An interpretable machine learning-based alternative to genome-wide association studies (GWAS), and its application in a wild population',author:'Gard Gravdal'},
+              {title:'The impact of increased recombination on breeding programs: Insights from simulations',author:'Boyny Zsa Zsa'},
+              {title:'Permutation-based GWAS in raspberry',author:'Philip Greenspoon'},
+              {title:'Building foundations for \'Ensembl Plant Populations\'',author:'James Bedford'},
+              {title:'Predicting novel genotypes in untested environments using large multi-environment datasets across species',author:'Vincent Garin'},
+              {title:'Strategic crossing to improve genetic potential in soybean breeding',author:'Kengo Sakurai'},
+              {title:'Genome-wide association study of agronomical and nutritional traits in oat using a recurrent selection population with Avena sterilis introgressions',author:'Kai Ilves'},
+              {title:'Genotype-by-environment interactions in Norwegian barley: Insights from a decade of multi-location trials',author:'Min Lin'},
+              {title:'Improving genomic prediction in wheat with random regression models for environmental covariates',author:'Rishap Dhakal'},
+              {title:'QTL mapping and candidate genes associated with common bean resistance to root-knot nematode (Meloidogyne incognita)',author:'Antonio Augusto Franco Garcia'},
+              {title:'Implementation of genomic selection in Miscanthus sinensis for ecosystem services',author:'Séverine Monnot'},
+              {title:'Maximizing G×E value in forestry breeding using a three-stage approach',author:'Mason Chizk'},
+              {title:'From Fields to Fjords: A framework for targeting resilience by simulating longitudinal growth traits in plants and aquaculture',author:'Duncan Henderson'},
+              {title:'Genotype and phenotype encryption optimised for federated quantitative genetics',author:'Richard Mott'},
+              {title:'Comparing uni-modal vs multi-modal ML modeling of GxE interactions on hybrid maize data',author:'Finn Gaida'},
+        ])">
           <div class="poster_item">Drinks Reception & Poster Session 1</div>
         </div>
         </td>
@@ -329,7 +430,21 @@ There will be nine session as shown below. We envisage that each session will ha
     </div>
   </div>
 </div>
-
+<!-- Poster Modal -->
+<div id="posterModal" style="display:none; position:fixed; z-index:9999; left:60px; top:0; width:100%; height:100%; background:rgba(0,0,0,0.4); justify-content:center; align-items:center;">
+  <div style="background:white; padding:20px; border-radius:10px; max-width:650px; max-height:80%; overflow-y:auto;">
+    <h2 id="posterModalTitle">Poster Session</h2>
+    <ol id="posterList" style="font-size:16px; line-height:1.6;"></ol>
+    <div id="modalPosterButton">
+      <span onclick="closePosterModal()" 
+        style="display:inline-block; margin-top:10px; padding:6px 12px; background:#ccc; color:white; border-radius:4px; cursor:pointer;"
+            onmouseover="this.style.background='#999'; this.style.color='white';"
+            onmouseout="this.style.background='#B2B9E8'; this.style.color='white';">
+        Close
+      </span>
+    </div>
+  </div>
+</div>
 <script>
   function openModal(title, subtitle0, details0,subtitle1, details1,subtitle2, details2,subtitle3, details3,subtitle4, details4) {
     document.getElementById('modalTitle').innerText = title;
@@ -349,4 +464,39 @@ There will be nine session as shown below. We envisage that each session will ha
   function closeModal() {
     document.getElementById("modal").style.display = "none";
   }
+  
+  function openPosterModal(title, posters) {
+  document.getElementById('posterModalTitle').innerText = title;
+  let start;
+  if (title == "Poster Session 1") {
+        start = 1;
+    } else {
+        start = 37;
+    }
+  let list = document.getElementById('posterList');
+  list.innerHTML = "";
+  posters.forEach((p, i) => {
+  let li = document.createElement("li");
+  li.style.listStyleType = "none";
+  li.innerHTML = `<div style="text-indent:-20px;">${i+start}. <strong>${p.author}</strong>: ${p.title}</div>`;
+  list.appendChild(li);
+  });
+  document.getElementById('posterModal').style.display = 'flex';
+}
+
+function closePosterModal() {
+    document.getElementById("posterModal").style.display = "none";
+  }
+window.onclick = function(event) {
+    const modal = document.getElementById('modal');
+    const posterModal = document.getElementById('posterModal');
+    if (event.target == modal) {
+        modal.style.display = "none";
+    }
+    if (event.target == posterModal) {
+        posterModal.style.display = "none";
+    }
+}
 </script>
+
+
