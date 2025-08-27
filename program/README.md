@@ -303,7 +303,7 @@ There will be nine session as shown below. We envisage that each session will ha
               <td class="break">Afternoon Tea (30 mins)</td>
               <td class="break" rowspan="3">        
               <div class="poster_container" onclick="openPosterModal('Poster Session 2', [
-                    {title:'flexFitR and exploreHTP: Open-source software to enable nonlinear modeling of plant growth from remotely-sensed imagery‘,author:'Johan Steven Aparicio, Jeffrey Endelman‘},
+                    {title:'flexFitR and exploreHTP: Open-source software to enable nonlinear modeling of plant growth from remotely-sensed imagery', author:'Johan Steven Aparicio, Jeffrey Endelman'},
                     {title:'Robustness Evaluation of Machine Learning Models in Genomic Prediction',author:'Vanda M. Lourenço, Hans-Peter Piepho & Joseph O. Ogutu'},
                     {title:'Types of Plant Breeding Paper',author:'Rex Bernardo, University of Minnesota'},
                     {title:'Genetic diversity and structure of Oenocarpus minor Mart. (Arecaceae) in the Brazilian Amazon',author:'Kauanne Karolline Moreno Martins, Santiago Linorio Ferreyra Ramos, Matheus Sartori Moro, Ana Flávia Francisconi, Maria Teresa Gomes Lopes, Maria Imaculada Zucchi'},
@@ -408,6 +408,14 @@ There will be nine session as shown below. We envisage that each session will ha
         </td>
         </tr>
     </table>
+
+We have now circulated a google form to take preferences via email. Please fill this out by <strong>Thursday 4th September</strong>.  Note that the social activities are included in your registration fees (no extra costs required). You will get a packed lunch from the conference venue at 12:50pm and head out to one of the above activities. This will be followed by a very Scottish-filled evening at the conference dinner at from 6pm.
+
+Above you will find some general information about the activities, but note that we will provide specific information when allocations are made.
+
+We will allocate on a first come first served basis and while we will do our best to accommodate your preferences , please note that spaces for certain events are limited and we may not be able to fulfil all requests. We will aim to get back to you with your allocation by Thursday 11th September.
+
+If you have not received an email, we kindly ask you to double check your junk, otherwise feel free to get in touch and we will help.
 
 <!-- Modal -->
 <div id="modal">
