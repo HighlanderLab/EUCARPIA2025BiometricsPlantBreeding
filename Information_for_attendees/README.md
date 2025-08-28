@@ -1,5 +1,23 @@
 # Information for attendees 
 
+## Presentations
+Some brief notes for presenters:
+* We ecourage speakers to make **PowerPoint slides** in **16:9** aspect ratio. 4:3 will work as well, but there will be less screen space.
+* Talks will need to be **uploaded** at the start of the day or at least in the break preceeding the session before one's own session. This can be done via USB or email.
+* There is a podium with **fixed microphones**, and two screens for the presenter showing presenter mode. Please be ready to be stationary while presenting, no lapel mics.
+
+## Conference venue
+The conference venue is [The Royal College of Physicians](https://www.rcpe.ac.uk) Edinburgh, ([Google maps](https://maps.app.goo.gl/73jkUjuGj2oSzkX17)).
+
+**WiFi** is free. Name: RCPE-WiFi, password: chiron1681
+
+**Getting there by car**: Metered on-street parking is available at the College’s Queen Street entrance and in surrounding streets at the cost of £5.60 per hour with a maximum stay of three hours between 08:30-17:30 [Parking prices and times](https://www.edinburgh.gov.uk/parking-spaces/parking-prices-times/1)  
+A Qpark multi-story car park is located behind the Omni Centre. This is approximately a 10-minute walk from the College.  
+The Gallery has clear access directly outside the main entrance, allowing for easy drop-off and collection by car or taxi. There are multiple taxi ranks situated within proximity to the Gallery. 
+
+**Getting there by Train or Tram**: Waverley Train Station is the closest train station, located less than half a mile from the College.    
+The nearest tram stop is located at St Andrews Square, providing frequent connections from the city centre to Edinburgh Airport in around 40 minutes. Trams depart frequently through the day from early morning into late evening.
+
 <img src="../assets/img/Information2.png" alt="Profile Picture" width="300" align="right" style="margin-left: 20px;"> 
 Edinburgh is a city of stunning architecture and rich culture, with a vibrant academic scene. 
 
@@ -31,16 +49,6 @@ If you are travelling on a budget, we recommend the following hostels:
 [https://www.castlerockedinburgh.com/](https://www.castlerockedinburgh.com/)
 
 There are plenty of others to choose from!
-
-## Conference venue
-The conference venue is [The Royal College of Physicians](https://www.rcpe.ac.uk) Edinburgh, ([Google maps](https://maps.app.goo.gl/73jkUjuGj2oSzkX17)).
-
-**Getting there by car**: Metered on-street parking is available at the College’s Queen Street entrance and in surrounding streets at the cost of £5.60 per hour with a maximum stay of three hours between 08:30-17:30 [Parking prices and times](https://www.edinburgh.gov.uk/parking-spaces/parking-prices-times/1)  
-A Qpark multi-story car park is located behind the Omni Centre. This is approximately a 10-minute walk from the College.  
-The Gallery has clear access directly outside the main entrance, allowing for easy drop-off and collection by car or taxi. There are multiple taxi ranks situated within proximity to the Gallery. 
-
-**Getting there by Train or Tram**: Waverley Train Station is the closest train station, located less than half a mile from the College.    
-The nearest tram stop is located at St Andrews Square, providing frequent connections from the city centre to Edinburgh Airport in around 40 minutes. Trams depart frequently through the day from early morning into late evening.
 
 ## Conference dinner
 The conference dinner is going to be held at [Mansfield Traquair](https://www.mansfieldtraquair.co.uk/) Edinburgh, ([Google maps](https://www.bing.com/maps?q=Mansfield+Traquair&PC=U316&FORM=CHROMN)).
