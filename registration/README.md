@@ -60,5 +60,8 @@ We foresee a timeslot of 15 minutes for your talk, including 13 minutes of prese
 ### Instructions for posters
 Posters will be displayed during the three days of the conference. Panels for poster display and materials for hanging the posters will be available at the conference venue. The poster boards will be suitable for A0-sized posters in portrait orientation (120 cm tall, 85 cm wide).
 
+## Cancellations
+For cancellations, please contact us on the email address below. Please note that from August 28th onwards, we are only able to refund 50% as we had to pay for the conference dinner and will be unable to get a refund on this.
+
 ## Contact
 For inquiries, please email: eucarpia.biometrics19@gmail.com - thank you!
