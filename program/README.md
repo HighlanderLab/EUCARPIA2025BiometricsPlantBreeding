@@ -125,7 +125,7 @@ There will be nine session as shown below. We envisage that each session will ha
     color: #4a148c;
   }
   #modalContent h3 {
-    font-size: 20px;
+    font-size: 19px;
     margin: 10px 0;
     color: #4a148c;
   }
