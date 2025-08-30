@@ -121,16 +121,16 @@ There will be nine session as shown below. We envisage that each session will ha
   }
   #modalContent h2 {
     margin-top: 0;
-    font-size: 20px;
+    font-size: 25px;
     color: #4a148c;
   }
   #modalContent h3 {
-    font-size: 16px;
+    font-size: 20px;
     margin: 10px 0;
     color: #4a148c;
   }
   #modalContent p {
-    font-size: 16px;
+    font-size: 20px;
     margin: 10px 0;
   }
   #modalButton span {
