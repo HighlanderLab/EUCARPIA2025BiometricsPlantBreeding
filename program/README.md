@@ -334,7 +334,6 @@ There will be nine session as shown below. We envisage that each session will ha
                     {title:'Identification of QTL involved in heavy metal and trace element accumulation in durum wheat',author:'Alexia Crézé'},
                     {title:'Insufficient memory: a practical problem associated with the genomic relationship matrix and estimation of GxE effects for grain yield across multiple years and sites',author:'Wallace Cowling'},
                     {title:'Integration of environmental predictors and genomic selection into a pipeline for global potato variety recommendation',author:'Marco Peixoto'},
-                    {title:'PredictPro: An Integrated analytics pipeline for multi-omics machine learning and AI-based prediction in plant breeding',author:'Sikiru Adeniyi Atanda'},
               ])">
                 <div class="poster_item">Farewell Reception & Poster Session 2</div>
               </div>
