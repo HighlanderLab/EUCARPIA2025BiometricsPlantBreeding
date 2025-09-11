@@ -59,7 +59,7 @@ Food and drinks are provided (during morning break, lunch, and afternoon break).
 The [Easter Bush Campus](https://www.ed.ac.uk/roslin/about/our-campus) of The University of Edinburgh hosts The Roslin Institute ([Goolge maps](https://maps.app.goo.gl/L636reGtE8aLS9XZ7)), The Royal (Dick) School of Veterinary Medicine, The Global Academy of Agriculture and Food Systems, and a range of startups and established businesses.
 
 ### Getting there
-The Easter Bush campus is directly served by several local bus routes, the bus stop is called **Veterinary Centre**. To plan your journey, try using the  [Traveline Scotland journey planner](https://www.travelinescotland.com/lts/#/travelInfo), Google Maps, or the [Citymapper](https://citymapper.com/) app. All buses of line 47B serve the campus. If however you take a bus line 37, you must make sure that the bus displays "via Easter Bush". Otherwise you will end up in the wong place.
+The Easter Bush campus is directly served by several local bus routes, the bus stop is called **Veterinary Centre**. To plan your journey, try using the  [Traveline Scotland journey planner](https://www.travelinescotland.com/lts/#/travelInfo), Google Maps, or the [Citymapper](https://citymapper.com/) app. All buses of line 47B serve the campus. If however you take bus line 37, you must make sure that the bus displays "via Easter Bush". Otherwise you will end up in the wong place.
 
 Please note that there is a village called Roslin nearby. Do not go to Roslin village. Come to The Roslin Institute, Easter Bush campus! ([Goolge maps](https://maps.app.goo.gl/L636reGtE8aLS9XZ7))
 
