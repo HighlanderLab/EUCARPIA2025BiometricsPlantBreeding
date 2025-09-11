@@ -4,7 +4,7 @@ We are going to hold a workshop on running simulation of selective breeding prog
 
 ✅ Time: 15-16th September 2025 
 
-🏫 Place: The Roslin Institute, the Roslin auditorium
+🏫 Place: The Roslin Institute, Easter Bush campus (see below for details)
 
 **Please bring a laptop and be ready to install R packages.** To connect to the guest **Wi-Fi**, please see the official guide provided by the University of Edinburgh: [Connecting to Guest & Visitor Wi-Fi](https://information-services.ed.ac.uk/computing/desktop-personal/wifi-networking/guest-alumni-wifi-access).
 
@@ -56,10 +56,12 @@ Food and drinks are provided (during morning break, lunch, and afternoon break).
 
 
 ## About the venue
-The [Easter Bush Campus](https://www.ed.ac.uk/roslin/about/our-campus) of The University of Edinburgh ([Goolge maps](https://maps.app.goo.gl/L636reGtE8aLS9XZ7)) hosts The Roslin Institute, The Royal (Dick) School of Veterinary Medicine, The Global Academy of Agriculture and Food Systems, and a range of startups and established businesses.
+The [Easter Bush Campus](https://www.ed.ac.uk/roslin/about/our-campus) of The University of Edinburgh hosts The Roslin Institute ([Goolge maps](https://maps.app.goo.gl/L636reGtE8aLS9XZ7)), The Royal (Dick) School of Veterinary Medicine, The Global Academy of Agriculture and Food Systems, and a range of startups and established businesses.
 
 ### Getting there
-The Easter Bush campus is directly served by several local bus routes. To plan your journey, try using the  [Traveline Scotland journey planner](https://www.travelinescotland.com/lts/#/travelInfo), Google Maps, or the [Citymapper](https://citymapper.com/) app.
+The Easter Bush campus is directly served by several local bus routes, the bus stop is called **Veterinary Centre**. To plan your journey, try using the  [Traveline Scotland journey planner](https://www.travelinescotland.com/lts/#/travelInfo), Google Maps, or the [Citymapper](https://citymapper.com/) app. All buses of line 47B serve the campus. If however you take a bus line 37, you must make sure that the bus displays "via Easter Bush". Otherwise you will end up in the wong place.
+
+Please note that there is a village called Roslin nearby. Do not go to Roslin village. Come to The Roslin Institute, Easter Bush campus! ([Goolge maps](https://maps.app.goo.gl/L636reGtE8aLS9XZ7))
 
 <br>
 
@@ -78,7 +80,7 @@ The Easter Bush campus is directly served by several local bus routes. To plan y
   </tr>
   <tr>
     <td>Edinburgh: Princes Street, Waverley Station, and Newington</td>
-    <td>37 (Buses with destination "37 Penicuik Deanburn" do not serve the campus)</td>
+    <td>37 (only buses displaying "via Easter Bush" serve the campus)</td>
   </tr>
   <tr>
     <td>Edinburgh: West End, Tollcross, and Central Area</td>
