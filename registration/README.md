@@ -43,9 +43,8 @@
 </div>
 
 ## Registration
-Click **[here](https://www.epay.ed.ac.uk/conferences-and-events/college-of-medicine-and-veterinary-medicine/royal-dick-school-of-veterinary-studies/the-roslin-institute/eucarpia-biometrics-in-plant-breeding-2025)** to register!
+Registration is closed now.
 
-If you are interested in our **[satellite workshop](../satellite_workshop/)** on simulating breeding programmes, you will be able to book that as an add-on during registration. *Please note that the workshop will take place on September 15th and 16th, before the conference!*
 
 ## Abstract submission
 Now closed.
