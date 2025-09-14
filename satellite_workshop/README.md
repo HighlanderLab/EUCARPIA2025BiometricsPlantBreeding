@@ -54,7 +54,7 @@ We are going to hold a workshop on running simulation of selective breeding prog
   </tr>
   <tr>
     <td><strong>9:00-10:30</strong></td>
-    <td>Lectures / Tutorials / Practicals: TODO</td>
+    <td>Lectures / Tutorials / Practicals: Intro to experimental design and spatial variation</td>
   </tr>
   <tr>
     <td><strong>10:30-11:00</strong></td>
@@ -62,7 +62,7 @@ We are going to hold a workshop on running simulation of selective breeding prog
   </tr>
   <tr>
     <td><strong>11:00-12:30</strong></td>
-    <td>Lectures / Tutorials / Practicals: TODO</td>
+    <td>Lectures / Tutorials / Practicals: Simulating individual field trials and fitting spatial models</td>
   </tr>
   <tr>
     <td><strong>12:30-13:30</strong></td>
@@ -70,7 +70,7 @@ We are going to hold a workshop on running simulation of selective breeding prog
   </tr>
   <tr>
     <td><strong>13:30-15:00</strong></td>
-    <td>Lectures / Tutorials / Practicals: TODO</td>
+    <td>Lectures / Tutorials / Practicals: Intro to modelling and disentangling GxE interaction</td>
   </tr>
   <tr>
     <td><strong>15:00-15:30</strong></td>
@@ -78,7 +78,7 @@ We are going to hold a workshop on running simulation of selective breeding prog
   </tr>
   <tr>
     <td><strong>15:30-17:00</strong></td>
-    <td>Lectures / Tutorials / Practicals: TODO</td>
+    <td>Lectures / Tutorials / Practicals: Simulating multi-environment field trials and fitting GxE models</td>
   </tr>
   
   </table>
