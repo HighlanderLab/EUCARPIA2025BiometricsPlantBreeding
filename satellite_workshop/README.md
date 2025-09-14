@@ -6,7 +6,7 @@ We are going to hold a workshop on running simulation of selective breeding prog
 
 🏫 Place: The Roslin Institute, Easter Bush campus (see below for details)
 
-**Please bring a laptop and be ready to install R packages.** To connect to the guest **Wi-Fi**, please see the official guide provided by the University of Edinburgh: [Connecting to Guest & Visitor Wi-Fi](https://information-services.ed.ac.uk/computing/desktop-personal/wifi-networking/guest-alumni-wifi-access).
+**Please bring a laptop and be ready to install R packages.** We have shared instructions on which packages we will use via e-mail To connect to the guest **Wi-Fi**, please see the official guide provided by the University of Edinburgh: [Connecting to Guest & Visitor Wi-Fi](https://information-services.ed.ac.uk/computing/desktop-personal/wifi-networking/guest-alumni-wifi-access).
 
 ## Instructors
 * [Gregor Gorjanc](https://www.linkedin.com/in/gregorgorjanc/)
@@ -14,13 +14,12 @@ We are going to hold a workshop on running simulation of selective breeding prog
 * [Chris Gaynor](https://www.linkedin.com/in/chris-gaynor-136550249/)
 * [Dominic Waters](https://www.linkedin.com/in/dominic-waters-a32800125/)
 
-
 ## Program
 
   <table style="width: 50%; margin: 0;border-collapse: collapse; text-align: center;">
   <tr>
     <td><strong>9:00-10:30</strong></td>
-    <td>Lectures & Tutorials</td>
+    <td>Lectures / Tutorials / Practicals</td>
   </tr>
   <tr>
     <td><strong>10:30-11:00</strong></td>
@@ -28,7 +27,7 @@ We are going to hold a workshop on running simulation of selective breeding prog
   </tr>
   <tr>
     <td><strong>11:00-12:30</strong></td>
-    <td>Practicals</td>
+    <td>Lectures / Tutorials / Practicals</td>
   </tr>
   <tr>
     <td><strong>12:30-13:30</strong></td>
@@ -36,24 +35,21 @@ We are going to hold a workshop on running simulation of selective breeding prog
   </tr>
   <tr>
     <td><strong>13:30-15:00</strong></td>
-    <td>Lectures/Tutorials/Practicals</td>
+    <td>Lectures / Tutorials / Practicals</td>
   </tr>
   <tr>
-    <td><strong>15:30-16:00</strong></td>
+    <td><strong>15:00-15:30</strong></td>
     <td>Coffee/Tea</td>
   </tr>
   <tr>
-    <td><strong>16:00-17:00</strong></td>
-    <td>Practicals</td>
+    <td><strong>15:30-17:00</strong></td>
+    <td>Lectures / Tutorials / Practicals</td>
   </tr>
   
   </table>
 
-More details soon!
-
 ## Food
 Food and drinks are provided (during morning break, lunch, and afternoon break). In addition, there is our cafe "Dolly's", in the building, open 8:30-15:30. Filtered water is available at any time at the water dispenser in Dolly's.
-
 
 ## About the venue
 The [Easter Bush Campus](https://www.ed.ac.uk/roslin/about/our-campus) of The University of Edinburgh hosts The Roslin Institute ([Goolge maps](https://maps.app.goo.gl/L636reGtE8aLS9XZ7)), The Royal (Dick) School of Veterinary Medicine, The Global Academy of Agriculture and Food Systems, and a range of startups and established businesses.
