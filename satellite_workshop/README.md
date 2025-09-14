@@ -18,8 +18,11 @@ We are going to hold a workshop on running simulation of selective breeding prog
 
   <table style="width: 50%; margin: 0;border-collapse: collapse; text-align: center;">
   <tr>
+    <td colspan="2"><strong>Day 1 - AlphaSimR</strong></td>
+  </tr>
+  <tr>
     <td><strong>9:00-10:30</strong></td>
-    <td>Lectures / Tutorials / Practicals</td>
+    <td>Lectures / Tutorials / Practicals: Intro to simulations and AlphaSimR</td>
   </tr>
   <tr>
     <td><strong>10:30-11:00</strong></td>
@@ -27,7 +30,7 @@ We are going to hold a workshop on running simulation of selective breeding prog
   </tr>
   <tr>
     <td><strong>11:00-12:30</strong></td>
-    <td>Lectures / Tutorials / Practicals</td>
+    <td>Lectures / Tutorials / Practicals: Fitting statistical models in simulations</td>
   </tr>
   <tr>
     <td><strong>12:30-13:30</strong></td>
@@ -35,7 +38,7 @@ We are going to hold a workshop on running simulation of selective breeding prog
   </tr>
   <tr>
     <td><strong>13:30-15:00</strong></td>
-    <td>Lectures / Tutorials / Practicals</td>
+    <td>Lectures / Tutorials / Practicals: Hybrids and dominance</td>
   </tr>
   <tr>
     <td><strong>15:00-15:30</strong></td>
@@ -43,7 +46,39 @@ We are going to hold a workshop on running simulation of selective breeding prog
   </tr>
   <tr>
     <td><strong>15:30-17:00</strong></td>
-    <td>Lectures / Tutorials / Practicals</td>
+    <td>Lectures / Tutorials / Practicals: Import of real data, polyploids, …</td>
+  </tr>
+
+  <tr>
+    <td colspan="2"><strong>Day 2 - FieldSimR</strong></td>
+  </tr>
+  <tr>
+    <td><strong>9:00-10:30</strong></td>
+    <td>Lectures / Tutorials / Practicals: TODO</td>
+  </tr>
+  <tr>
+    <td><strong>10:30-11:00</strong></td>
+    <td>Coffee/Tea</td>
+  </tr>
+  <tr>
+    <td><strong>11:00-12:30</strong></td>
+    <td>Lectures / Tutorials / Practicals: TODO</td>
+  </tr>
+  <tr>
+    <td><strong>12:30-13:30</strong></td>
+    <td>Lunch</td>
+  </tr>
+  <tr>
+    <td><strong>13:30-15:00</strong></td>
+    <td>Lectures / Tutorials / Practicals: TODO</td>
+  </tr>
+  <tr>
+    <td><strong>15:00-15:30</strong></td>
+    <td>Coffee/Tea</td>
+  </tr>
+  <tr>
+    <td><strong>15:30-17:00</strong></td>
+    <td>Lectures / Tutorials / Practicals: TODO</td>
   </tr>
   
   </table>
