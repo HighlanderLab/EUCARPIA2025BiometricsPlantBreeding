@@ -16,7 +16,7 @@ We are going to hold a workshop on running simulation of selective breeding prog
 
 ## Program
 
-  <table style="width: 50%; margin: 0;border-collapse: collapse; text-align: center;">
+  <table style="width: 100%; margin: 0;border-collapse: collapse; text-align: center;">
   <tr>
     <td colspan="2"><strong>Day 1 - AlphaSimR</strong></td>
   </tr>
