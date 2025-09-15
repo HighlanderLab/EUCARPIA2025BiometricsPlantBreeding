@@ -334,6 +334,7 @@ There will be nine sessions as shown below. Each session will have one plenary a
                     {title:'Identification of QTL involved in heavy metal and trace element accumulation in durum wheat',author:'Alexia Crézé'},
                     {title:'Insufficient memory: a practical problem associated with the genomic relationship matrix and estimation of GxE effects for grain yield across multiple years and sites',author:'Wallace Cowling'},
                     {title:'Integration of environmental predictors and genomic selection into a pipeline for global potato variety recommendation',author:'Marco Peixoto'},
+                    {title:'Breed-E-Omics European project: Genomics and genetics approaches of Spelt (Triticum spelta) for a sustainable agriculture facing global warming',author:'Eduardo Munaiz'},
               ])">
                 <div class="poster_item">Farewell Reception & Poster Session 2</div>
               </div>
