@@ -1,5 +1,5 @@
 # Scientific program
-There will be nine sessions as shown below. Each session will have one plenary and four contributed talks. Feel free to download a PDF of our program [here](https://highlanderlab.github.io/EUCARPIA2025BiometricsPlantBreeding/assets/pdf/EUCARPIA_Programme_Booklet_web.pdf). We are also planning to hand out paper copies at registration.
+There will be nine sessions as shown below. Each session will have one plenary and four contributed talks. Feel free to download a PDF of our program [here](../assets/pdf/EUCARPIA_Programme_Booklet_web.pdf). We are also planning to hand out paper copies at registration.
 
 💡 Tip: Click on each session title to view the full session programme and details.
 <style>
