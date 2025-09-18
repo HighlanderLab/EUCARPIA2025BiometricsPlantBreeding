@@ -1,5 +1,5 @@
 # Scientific program
-There will be nine sessions as shown below. Each session will have one plenary and four contributed talks. Feel free to download a PDF of our program [here](https://highlanderlab.github.io/EUCARPIA2025BiometricsPlantBreeding/assets/pdf/EUCARPIA_Programme_Booklet_web.pdf). We are also planning to hand out paper copies at registration.
+There will be nine sessions as shown below. Each session will have one plenary and four contributed talks. Feel free to download a PDF of our program [here](../assets/pdf/EUCARPIA_Programme_Booklet_web.pdf). We are also planning to hand out paper copies at registration.
 
 💡 Tip: Click on each session title to view the full session programme and details.
 <style>
@@ -335,6 +335,7 @@ There will be nine sessions as shown below. Each session will have one plenary a
                     {title:'Insufficient memory: a practical problem associated with the genomic relationship matrix and estimation of GxE effects for grain yield across multiple years and sites',author:'Wallace Cowling'},
                     {title:'Integration of environmental predictors and genomic selection into a pipeline for global potato variety recommendation',author:'Marco Peixoto'},
                     {title:'Breed-E-Omics European project: Genomics and genetics approaches of Spelt (Triticum spelta) for a sustainable agriculture facing global warming',author:'Eduardo Munaiz'},
+                    {title:'Computer-vision applications in barley and wheat breeding: drone and rhizotron phenotyping',author:'Giulia Moscatelli'},
               ])">
                 <div class="poster_item">Farewell Reception & Poster Session 2</div>
               </div>
