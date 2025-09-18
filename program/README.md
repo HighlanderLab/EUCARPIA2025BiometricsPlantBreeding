@@ -335,6 +335,7 @@ There will be nine sessions as shown below. Each session will have one plenary a
                     {title:'Insufficient memory: a practical problem associated with the genomic relationship matrix and estimation of GxE effects for grain yield across multiple years and sites',author:'Wallace Cowling'},
                     {title:'Integration of environmental predictors and genomic selection into a pipeline for global potato variety recommendation',author:'Marco Peixoto'},
                     {title:'Breed-E-Omics European project: Genomics and genetics approaches of Spelt (Triticum spelta) for a sustainable agriculture facing global warming',author:'Eduardo Munaiz'},
+                    {title:'Computer-vision applications in barley and wheat breeding: drone and rhizotron phenotyping',author:'Giulia Moscatelli'},
               ])">
                 <div class="poster_item">Farewell Reception & Poster Session 2</div>
               </div>
