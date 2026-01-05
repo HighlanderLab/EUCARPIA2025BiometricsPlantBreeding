@@ -2,6 +2,8 @@
 There will be nine sessions as shown below. Each session will have one plenary and four contributed talks. We are planning to hand out paper copies at registration.
 
 💡 Tip: Click on each session title to view the full session programme and details.
+
+💡 **Tip: Watch the recordings of the talks on YouTube [here](https://www.youtube.com/playlist?list=PLBtJ_20LGW3hWqJMi3ZYyMV-WvOQGVrfl).**
 <style>
       table {
             width: 100%;
